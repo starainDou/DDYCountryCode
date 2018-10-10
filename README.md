@@ -1,4 +1,4 @@
 # DDYCountryCode
 
 
-![DDYCountryCode.gif](https://github.com/starainDou/DDYDemoImage/blob/master/DDYCountryCode.gif)
+![DDYCountryCode.png](https://github.com/starainDou/DDYDemoImage/blob/master/DDYCountryCode.png)
