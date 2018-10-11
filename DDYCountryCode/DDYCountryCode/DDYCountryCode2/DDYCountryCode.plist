@@ -3,1455 +3,1455 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+93</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+355</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+213</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>DZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1684</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+376</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AD</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+244</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1264</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1268</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+54</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+374</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+297</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+61</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+43</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+994</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1242</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+973</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+880</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BD</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1246</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BB</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+375</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+32</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+501</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+229</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BJ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1441</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+975</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+387</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+267</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+55</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+246</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+359</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+226</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+257</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+855</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+237</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+238</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CV</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+ 345</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+236</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+235</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TD</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+56</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+86</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+61</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CX</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+57</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+269</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+242</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+682</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+506</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+385</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>HR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+53</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+537</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+420</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+45</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>DK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+253</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>DJ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1767</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>DM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1849</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>DO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+593</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>EC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+20</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>EG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+503</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SV</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+240</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GQ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+291</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ER</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+372</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>EE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+251</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ET</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+298</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>FO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+679</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>FJ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+358</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>FI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+33</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>FR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+594</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+689</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+241</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+220</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+995</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+49</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>DE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+233</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+350</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+30</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+299</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1473</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GD</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+590</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GP</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1671</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+502</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+224</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+245</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+595</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+509</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>HT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+504</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>HN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+36</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>HU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+354</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+91</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+62</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ID</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+964</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IQ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+353</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+972</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+39</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1876</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>JM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+81</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>JP</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+962</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>JO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+7</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+254</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+686</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+965</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+996</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+371</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LV</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+961</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LB</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+266</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+231</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+423</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+370</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+352</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+261</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+265</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+60</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+960</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MV</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+223</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ML</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+356</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+692</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+596</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MQ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+222</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+230</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+262</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>YT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+52</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MX</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+377</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+976</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+382</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ME</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1664</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+212</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+95</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+264</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+674</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+977</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NP</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+31</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+599</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+687</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+64</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+505</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+227</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+234</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+683</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+672</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1670</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MP</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+47</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>NO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+968</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>OM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+92</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+680</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+507</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+675</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+595</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+51</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+63</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+48</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+351</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1939</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+974</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>QA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+40</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>RO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+250</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>RW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+685</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>WS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+378</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+966</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+221</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+381</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>RS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+248</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+232</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+65</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+421</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+386</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+677</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SB</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+27</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ZA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+500</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+34</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ES</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+94</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+249</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SD</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+597</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+268</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+46</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+41</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+992</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TJ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+66</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+228</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+690</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+676</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1868</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TT</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+216</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+90</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+993</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1649</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+688</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TV</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+256</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>UG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+380</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>UA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+971</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+44</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GB</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>US</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+598</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>UY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+998</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>UZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+678</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>VU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+681</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>WF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+967</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>YE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+260</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ZM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+263</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ZW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+358</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>AX</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+591</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+673</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+61</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+243</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CD</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+225</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>CI</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+500</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>FK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+44</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>GG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+379</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>VA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+852</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>HK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+98</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+44</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>IM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+44</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>JE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+850</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KP</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+82</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KR</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+856</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LA</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+218</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+853</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+389</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MK</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+691</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>FM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+373</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MD</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+258</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+970</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PS</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+872</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+262</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>RE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+7</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>RU</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+590</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>BL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+290</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SH</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1869</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>KN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1758</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>LC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+590</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>MF</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+508</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>PM</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1784</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>VC</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+239</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>ST</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+252</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SO</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+47</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SJ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+963</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>SY</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+886</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TW</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+255</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TZ</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+670</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>TL</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+58</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>VE</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+84</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>VN</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1284</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>VG</string>
 	</dict>
 	<dict>
-		<key>code</key>
+		<key>countryCode</key>
 		<string>+1340</string>
-		<key>country</key>
+		<key>countryKey</key>
 		<string>VI</string>
 	</dict>
     <dict>
-        <key>code</key>
+        <key>countryCode</key>
         <string>+211</string>
-        <key>country</key>
+        <key>countryKey</key>
         <string>SS</string>
     </dict>
     <dict>
-        <key>code</key>
+        <key>countryCode</key>
         <string>+381</string>
-        <key>country</key>
+        <key>countryKey</key>
         <string>XK</string>
     </dict>
 </array>

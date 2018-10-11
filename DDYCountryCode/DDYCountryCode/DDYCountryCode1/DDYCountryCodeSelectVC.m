@@ -1,10 +1,11 @@
-#import "DDYCountryCodeVC.h"
+#import "DDYCountryCodeSelectVC.h"
 #import "UITableView+DDYIndexView.h"
 #import "NSArray+DDYExtension.h"
 
-static NSString *cellID = @"DDYCountryCodeVCCellID";
+static NSString *cellID = @"DDYCountryCodeCellID";
 
-@interface DDYCountryCodeModel : NSObject
+
+@interface DDYCountryModel : NSObject
 /** 国家或地区简写 */
 @property (nonatomic, strong) NSString *countryKey;
 /** 区号 */
@@ -14,31 +15,25 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
 /** 拉丁名称 */
 @property (nonatomic, strong) NSString *countryLatin;
 
-+ (NSArray <DDYCountryCodeModel *>*)countryModelArray;
++ (NSArray <DDYCountryModel *>*)countryModelArray;
 
 @end
 
-@implementation DDYCountryCodeModel
+@implementation DDYCountryModel
 
-+ (NSArray<DDYCountryCodeModel *> *)countryModelArray {
-    NSString *plistPath = [[NSBundle mainBundle] pathForResource:@"DDYCountryCode" ofType:@"plist"];
++ (NSArray<DDYCountryModel *> *)countryModelArray {
+    NSString *fileName = NSLocalizedStringFromTable(@"DDYCountryFile", @"DDYCountry", nil);
+    NSString *plistPath = [[NSBundle mainBundle] pathForResource:fileName ofType:@"plist"];
     NSArray *tempArray = [NSArray arrayWithContentsOfFile:plistPath];
     NSMutableArray *modelArray = [NSMutableArray array];
     for (NSDictionary *tempDict in tempArray) {
-        DDYCountryCodeModel *tempMoel = [[DDYCountryCodeModel alloc] init];
+        DDYCountryModel *tempMoel = [[DDYCountryModel alloc] init];
         tempMoel.countryKey = tempDict[@"countryKey"];
         tempMoel.countryCode = tempDict[@"countryCode"];
-        tempMoel.countryName = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:tempMoel.countryKey];
-        tempMoel.countryLatin = [self latinize:tempMoel.countryName];
-        // 爱国从代码开始
-        if ([tempMoel.countryKey isEqualToString:@"TW"]) {
-            NSString *TaiWanStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"TW"];
-            NSString *ChinaStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"CN"];
-            tempMoel.countryName = [NSString stringWithFormat:@"%@ (%@)", TaiWanStr, ChinaStr];
-        }
+        tempMoel.countryName = tempDict[@"countryName"];
+        tempMoel.countryLatin = tempDict[@"countryLatin"];
         [modelArray addObject:tempMoel];
     }
-    // [NSLocale ISOCountryCodes], 如果变动需自行修改
     return modelArray;
 }
 
@@ -51,7 +46,7 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
 
 @end
 
-@interface DDYCountryCodeVC ()<UITableViewDelegate, UITableViewDataSource>
+@interface DDYCountryCodeSelectVC ()<UITableViewDelegate, UITableViewDataSource>
 
 @property (nonatomic, strong) UITableView *tableView;
 /** 排序后的模型数组 */
@@ -61,7 +56,7 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
 
 @end
 
-@implementation DDYCountryCodeVC
+@implementation DDYCountryCodeSelectVC
 
 - (UITableView *)tableView {
     if (!_tableView) {
@@ -106,25 +101,25 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-   return [self.modelsArray[section] count];
+    return [self.modelsArray[section] count];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-    DDYCountryCodeModel *model = self.modelsArray[indexPath.section][indexPath.row];
+    DDYCountryModel *model = self.modelsArray[indexPath.section][indexPath.row];
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellID];
     if (!cell) cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:cellID];
-    cell.textLabel.text = model.countryName;
-    cell.textLabel.font = [UIFont systemFontOfSize:15];
-    cell.textLabel.textColor = [UIColor colorWithRed:80./255. green:80./255. blue:80./255. alpha:1];
-    cell.detailTextLabel.text = model.countryCode;
-    cell.detailTextLabel.font = [UIFont systemFontOfSize:14];
-    cell.detailTextLabel.textColor = [UIColor colorWithRed:180./255. green:180./255. blue:180./255. alpha:1];
-    return cell;
+        cell.textLabel.text = model.countryName;
+        cell.textLabel.font = [UIFont systemFontOfSize:15];
+        cell.textLabel.textColor = [UIColor colorWithRed:80./255. green:80./255. blue:80./255. alpha:1];
+        cell.detailTextLabel.text = model.countryCode;
+        cell.detailTextLabel.font = [UIFont systemFontOfSize:14];
+        cell.detailTextLabel.textColor = [UIColor colorWithRed:180./255. green:180./255. blue:180./255. alpha:1];
+        return cell;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     [tableView deselectRowAtIndexPath:indexPath animated:YES];
-    DDYCountryCodeModel *model = self.modelsArray[indexPath.section][indexPath.row];
+    DDYCountryModel *model = self.modelsArray[indexPath.section][indexPath.row];
     if (self.countryBlock) {
         self.countryBlock(model.countryCode, model.countryKey, model.countryName, model.countryLatin);
     }
@@ -139,7 +134,7 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
     // 这里只是基本演示，具体优化啥的自己酌情考虑
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
         // 原始数据
-        NSArray *originalArray = [DDYCountryCodeModel countryModelArray];
+        NSArray *originalArray = [DDYCountryModel countryModelArray];
         // 模型排序(可以用latin只字母, 可以用countryName形式加上配置国际化,)
         [originalArray ddy_ModelSortSelector:@selector(countryName) complete:^(NSArray *modelsArray, NSArray *titlesArray) {
             self.modelsArray = [NSMutableArray arrayWithArray:modelsArray];
@@ -154,4 +149,4 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
 
 @end
 
-/** 跟随系统 */
+/** 应用内切换语言 */

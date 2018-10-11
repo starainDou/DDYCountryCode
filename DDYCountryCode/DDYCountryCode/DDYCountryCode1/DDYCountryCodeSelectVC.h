@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 
-@interface DDYCountryCodeVC : UIViewController
+@interface DDYCountryCodeSelectVC : UIViewController
 
 @property (nonatomic, copy) void (^countryBlock)(NSString *countryCode, NSString *countryKey, NSString *countryName, NSString *countryLatin);
 

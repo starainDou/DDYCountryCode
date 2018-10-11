@@ -8,9 +8,9 @@
 		<key>countryKey</key>
 		<string>AF</string>
 		<key>countryLatin</key>
-		<string>a fu han</string>
+		<string>Afghanistan</string>
 		<key>countryName</key>
-		<string>阿富汗</string>
+		<string>Afghanistan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -18,9 +18,9 @@
 		<key>countryKey</key>
 		<string>AL</string>
 		<key>countryLatin</key>
-		<string>a er ba ni ya</string>
+		<string>Albania</string>
 		<key>countryName</key>
-		<string>阿爾巴尼亞</string>
+		<string>Albania</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -28,9 +28,9 @@
 		<key>countryKey</key>
 		<string>DZ</string>
 		<key>countryLatin</key>
-		<string>a er ji li ya</string>
+		<string>Algeria</string>
 		<key>countryName</key>
-		<string>阿爾及利亞</string>
+		<string>Algeria</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -38,9 +38,9 @@
 		<key>countryKey</key>
 		<string>AS</string>
 		<key>countryLatin</key>
-		<string>mei shu sa mo ya</string>
+		<string>American Samoa</string>
 		<key>countryName</key>
-		<string>美屬薩摩亞</string>
+		<string>American Samoa</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -48,9 +48,9 @@
 		<key>countryKey</key>
 		<string>AD</string>
 		<key>countryLatin</key>
-		<string>an dao er</string>
+		<string>Andorra</string>
 		<key>countryName</key>
-		<string>安道爾</string>
+		<string>Andorra</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -58,9 +58,9 @@
 		<key>countryKey</key>
 		<string>AO</string>
 		<key>countryLatin</key>
-		<string>an ge la</string>
+		<string>Angola</string>
 		<key>countryName</key>
-		<string>安哥拉</string>
+		<string>Angola</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -68,9 +68,9 @@
 		<key>countryKey</key>
 		<string>AI</string>
 		<key>countryLatin</key>
-		<string>an gui la</string>
+		<string>Anguilla</string>
 		<key>countryName</key>
-		<string>安圭拉</string>
+		<string>Anguilla</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -78,9 +78,9 @@
 		<key>countryKey</key>
 		<string>AG</string>
 		<key>countryLatin</key>
-		<string>an de ka ji ba bu da</string>
+		<string>Antigua &amp; Barbuda</string>
 		<key>countryName</key>
-		<string>安地卡及巴布達</string>
+		<string>Antigua &amp; Barbuda</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -88,9 +88,9 @@
 		<key>countryKey</key>
 		<string>AR</string>
 		<key>countryLatin</key>
-		<string>a gen ting</string>
+		<string>Argentina</string>
 		<key>countryName</key>
-		<string>阿根廷</string>
+		<string>Argentina</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -98,9 +98,9 @@
 		<key>countryKey</key>
 		<string>AM</string>
 		<key>countryLatin</key>
-		<string>ya mei ni ya</string>
+		<string>Armenia</string>
 		<key>countryName</key>
-		<string>亞美尼亞</string>
+		<string>Armenia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -108,9 +108,9 @@
 		<key>countryKey</key>
 		<string>AW</string>
 		<key>countryLatin</key>
-		<string>he shu a lu ba</string>
+		<string>Aruba</string>
 		<key>countryName</key>
-		<string>荷屬阿魯巴</string>
+		<string>Aruba</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -118,9 +118,9 @@
 		<key>countryKey</key>
 		<string>AU</string>
 		<key>countryLatin</key>
-		<string>ao zhou</string>
+		<string>Australia</string>
 		<key>countryName</key>
-		<string>澳洲</string>
+		<string>Australia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -128,9 +128,9 @@
 		<key>countryKey</key>
 		<string>AT</string>
 		<key>countryLatin</key>
-		<string>ao de li</string>
+		<string>Austria</string>
 		<key>countryName</key>
-		<string>奧地利</string>
+		<string>Austria</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -138,9 +138,9 @@
 		<key>countryKey</key>
 		<string>AZ</string>
 		<key>countryLatin</key>
-		<string>ya sai bai ran</string>
+		<string>Azerbaijan</string>
 		<key>countryName</key>
-		<string>亞塞拜然</string>
+		<string>Azerbaijan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -148,9 +148,9 @@
 		<key>countryKey</key>
 		<string>BS</string>
 		<key>countryLatin</key>
-		<string>ba ha ma</string>
+		<string>Bahamas</string>
 		<key>countryName</key>
-		<string>巴哈馬</string>
+		<string>Bahamas</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -158,9 +158,9 @@
 		<key>countryKey</key>
 		<string>BH</string>
 		<key>countryLatin</key>
-		<string>ba lin</string>
+		<string>Bahrain</string>
 		<key>countryName</key>
-		<string>巴林</string>
+		<string>Bahrain</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -168,9 +168,9 @@
 		<key>countryKey</key>
 		<string>BD</string>
 		<key>countryLatin</key>
-		<string>meng jia la</string>
+		<string>Bangladesh</string>
 		<key>countryName</key>
-		<string>孟加拉</string>
+		<string>Bangladesh</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -178,9 +178,9 @@
 		<key>countryKey</key>
 		<string>BB</string>
 		<key>countryLatin</key>
-		<string>ba bei duo</string>
+		<string>Barbados</string>
 		<key>countryName</key>
-		<string>巴貝多</string>
+		<string>Barbados</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -188,9 +188,9 @@
 		<key>countryKey</key>
 		<string>BY</string>
 		<key>countryLatin</key>
-		<string>bai e luo si</string>
+		<string>Belarus</string>
 		<key>countryName</key>
-		<string>白俄羅斯</string>
+		<string>Belarus</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -198,9 +198,9 @@
 		<key>countryKey</key>
 		<string>BE</string>
 		<key>countryLatin</key>
-		<string>bi li shi</string>
+		<string>Belgium</string>
 		<key>countryName</key>
-		<string>比利時</string>
+		<string>Belgium</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -208,9 +208,9 @@
 		<key>countryKey</key>
 		<string>BZ</string>
 		<key>countryLatin</key>
-		<string>bei li si</string>
+		<string>Belize</string>
 		<key>countryName</key>
-		<string>貝里斯</string>
+		<string>Belize</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -218,9 +218,9 @@
 		<key>countryKey</key>
 		<string>BJ</string>
 		<key>countryLatin</key>
-		<string>bei nan</string>
+		<string>Benin</string>
 		<key>countryName</key>
-		<string>貝南</string>
+		<string>Benin</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -228,9 +228,9 @@
 		<key>countryKey</key>
 		<string>BM</string>
 		<key>countryLatin</key>
-		<string>bai mu da</string>
+		<string>Bermuda</string>
 		<key>countryName</key>
-		<string>百慕達</string>
+		<string>Bermuda</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -238,9 +238,9 @@
 		<key>countryKey</key>
 		<string>BT</string>
 		<key>countryLatin</key>
-		<string>bu dan</string>
+		<string>Bhutan</string>
 		<key>countryName</key>
-		<string>不丹</string>
+		<string>Bhutan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -248,9 +248,9 @@
 		<key>countryKey</key>
 		<string>BA</string>
 		<key>countryLatin</key>
-		<string>bo shi ni ya yu he sai ge wei na</string>
+		<string>Bosnia &amp; Herzegovina</string>
 		<key>countryName</key>
-		<string>波士尼亞與赫塞哥維納</string>
+		<string>Bosnia &amp; Herzegovina</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -258,9 +258,9 @@
 		<key>countryKey</key>
 		<string>BW</string>
 		<key>countryLatin</key>
-		<string>bo zha na</string>
+		<string>Botswana</string>
 		<key>countryName</key>
-		<string>波札那</string>
+		<string>Botswana</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -268,9 +268,9 @@
 		<key>countryKey</key>
 		<string>BR</string>
 		<key>countryLatin</key>
-		<string>ba xi</string>
+		<string>Brazil</string>
 		<key>countryName</key>
-		<string>巴西</string>
+		<string>Brazil</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -278,9 +278,9 @@
 		<key>countryKey</key>
 		<string>IO</string>
 		<key>countryLatin</key>
-		<string>ying shu yin du yang ling de</string>
+		<string>British Indian Ocean Territory</string>
 		<key>countryName</key>
-		<string>英屬印度洋領地</string>
+		<string>British Indian Ocean Territory</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -288,9 +288,9 @@
 		<key>countryKey</key>
 		<string>BG</string>
 		<key>countryLatin</key>
-		<string>bao jia li ya</string>
+		<string>Bulgaria</string>
 		<key>countryName</key>
-		<string>保加利亞</string>
+		<string>Bulgaria</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -298,9 +298,9 @@
 		<key>countryKey</key>
 		<string>BF</string>
 		<key>countryLatin</key>
-		<string>bu ji na fa suo</string>
+		<string>Burkina Faso</string>
 		<key>countryName</key>
-		<string>布吉納法索</string>
+		<string>Burkina Faso</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -308,9 +308,9 @@
 		<key>countryKey</key>
 		<string>BI</string>
 		<key>countryLatin</key>
-		<string>pu long de</string>
+		<string>Burundi</string>
 		<key>countryName</key>
-		<string>蒲隆地</string>
+		<string>Burundi</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -318,9 +318,9 @@
 		<key>countryKey</key>
 		<string>KH</string>
 		<key>countryLatin</key>
-		<string>jian bu zhai</string>
+		<string>Cambodia</string>
 		<key>countryName</key>
-		<string>柬埔寨</string>
+		<string>Cambodia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -328,9 +328,9 @@
 		<key>countryKey</key>
 		<string>CM</string>
 		<key>countryLatin</key>
-		<string>ka mai long</string>
+		<string>Cameroon</string>
 		<key>countryName</key>
-		<string>喀麥隆</string>
+		<string>Cameroon</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -338,9 +338,9 @@
 		<key>countryKey</key>
 		<string>CA</string>
 		<key>countryLatin</key>
-		<string>jia na da</string>
+		<string>Canada</string>
 		<key>countryName</key>
-		<string>加拿大</string>
+		<string>Canada</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -348,9 +348,9 @@
 		<key>countryKey</key>
 		<string>CV</string>
 		<key>countryLatin</key>
-		<string>wei de jiao</string>
+		<string>Cape Verde</string>
 		<key>countryName</key>
-		<string>維德角</string>
+		<string>Cape Verde</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -358,9 +358,9 @@
 		<key>countryKey</key>
 		<string>KY</string>
 		<key>countryLatin</key>
-		<string>kai man qun dao</string>
+		<string>Cayman Islands</string>
 		<key>countryName</key>
-		<string>開曼群島</string>
+		<string>Cayman Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -368,9 +368,9 @@
 		<key>countryKey</key>
 		<string>CF</string>
 		<key>countryLatin</key>
-		<string>zhong fei gong he guo</string>
+		<string>Central African Republic</string>
 		<key>countryName</key>
-		<string>中非共和國</string>
+		<string>Central African Republic</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -378,9 +378,9 @@
 		<key>countryKey</key>
 		<string>TD</string>
 		<key>countryLatin</key>
-		<string>cha de</string>
+		<string>Chad</string>
 		<key>countryName</key>
-		<string>查德</string>
+		<string>Chad</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -388,9 +388,9 @@
 		<key>countryKey</key>
 		<string>CL</string>
 		<key>countryLatin</key>
-		<string>zhi li</string>
+		<string>Chile</string>
 		<key>countryName</key>
-		<string>智利</string>
+		<string>Chile</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -398,9 +398,9 @@
 		<key>countryKey</key>
 		<string>CN</string>
 		<key>countryLatin</key>
-		<string>zhong guo</string>
+		<string>China</string>
 		<key>countryName</key>
-		<string>中國</string>
+		<string>China</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -408,9 +408,9 @@
 		<key>countryKey</key>
 		<string>CX</string>
 		<key>countryLatin</key>
-		<string>sheng dan dao</string>
+		<string>Christmas Island</string>
 		<key>countryName</key>
-		<string>聖誕島</string>
+		<string>Christmas Island</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -418,9 +418,9 @@
 		<key>countryKey</key>
 		<string>CO</string>
 		<key>countryLatin</key>
-		<string>ge lun bi ya</string>
+		<string>Colombia</string>
 		<key>countryName</key>
-		<string>哥倫比亞</string>
+		<string>Colombia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -428,9 +428,9 @@
 		<key>countryKey</key>
 		<string>KM</string>
 		<key>countryLatin</key>
-		<string>ge mo</string>
+		<string>Comoros</string>
 		<key>countryName</key>
-		<string>葛摩</string>
+		<string>Comoros</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -438,9 +438,9 @@
 		<key>countryKey</key>
 		<string>CG</string>
 		<key>countryLatin</key>
-		<string>gang guo （bu la sa）</string>
+		<string>Congo - Brazzaville</string>
 		<key>countryName</key>
-		<string>剛果（布拉薩）</string>
+		<string>Congo - Brazzaville</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -448,9 +448,9 @@
 		<key>countryKey</key>
 		<string>CK</string>
 		<key>countryLatin</key>
-		<string>ku ke qun dao</string>
+		<string>Cook Islands</string>
 		<key>countryName</key>
-		<string>庫克群島</string>
+		<string>Cook Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -458,9 +458,9 @@
 		<key>countryKey</key>
 		<string>CR</string>
 		<key>countryLatin</key>
-		<string>ge si da li jia</string>
+		<string>Costa Rica</string>
 		<key>countryName</key>
-		<string>哥斯大黎加</string>
+		<string>Costa Rica</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -468,9 +468,9 @@
 		<key>countryKey</key>
 		<string>HR</string>
 		<key>countryLatin</key>
-		<string>ke luo ai xi ya</string>
+		<string>Croatia</string>
 		<key>countryName</key>
-		<string>克羅埃西亞</string>
+		<string>Croatia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -478,9 +478,9 @@
 		<key>countryKey</key>
 		<string>CU</string>
 		<key>countryLatin</key>
-		<string>gu ba</string>
+		<string>Cuba</string>
 		<key>countryName</key>
-		<string>古巴</string>
+		<string>Cuba</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -488,9 +488,9 @@
 		<key>countryKey</key>
 		<string>CY</string>
 		<key>countryLatin</key>
-		<string>sai pu lei si</string>
+		<string>Cyprus</string>
 		<key>countryName</key>
-		<string>賽普勒斯</string>
+		<string>Cyprus</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -498,9 +498,9 @@
 		<key>countryKey</key>
 		<string>CZ</string>
 		<key>countryLatin</key>
-		<string>jie ke</string>
+		<string>Czechia</string>
 		<key>countryName</key>
-		<string>捷克</string>
+		<string>Czechia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -508,9 +508,9 @@
 		<key>countryKey</key>
 		<string>DK</string>
 		<key>countryLatin</key>
-		<string>dan mai</string>
+		<string>Denmark</string>
 		<key>countryName</key>
-		<string>丹麥</string>
+		<string>Denmark</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -518,9 +518,9 @@
 		<key>countryKey</key>
 		<string>DJ</string>
 		<key>countryLatin</key>
-		<string>ji bu de</string>
+		<string>Djibouti</string>
 		<key>countryName</key>
-		<string>吉布地</string>
+		<string>Djibouti</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -528,9 +528,9 @@
 		<key>countryKey</key>
 		<string>DM</string>
 		<key>countryLatin</key>
-		<string>duo mi ni ke</string>
+		<string>Dominica</string>
 		<key>countryName</key>
-		<string>多米尼克</string>
+		<string>Dominica</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -538,9 +538,9 @@
 		<key>countryKey</key>
 		<string>DO</string>
 		<key>countryLatin</key>
-		<string>duo ming ni jia gong he guo</string>
+		<string>Dominican Republic</string>
 		<key>countryName</key>
-		<string>多明尼加共和國</string>
+		<string>Dominican Republic</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -548,9 +548,9 @@
 		<key>countryKey</key>
 		<string>EC</string>
 		<key>countryLatin</key>
-		<string>e gua duo</string>
+		<string>Ecuador</string>
 		<key>countryName</key>
-		<string>厄瓜多</string>
+		<string>Ecuador</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -558,9 +558,9 @@
 		<key>countryKey</key>
 		<string>EG</string>
 		<key>countryLatin</key>
-		<string>ai ji</string>
+		<string>Egypt</string>
 		<key>countryName</key>
-		<string>埃及</string>
+		<string>Egypt</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -568,9 +568,9 @@
 		<key>countryKey</key>
 		<string>SV</string>
 		<key>countryLatin</key>
-		<string>sa er wa duo</string>
+		<string>El Salvador</string>
 		<key>countryName</key>
-		<string>薩爾瓦多</string>
+		<string>El Salvador</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -578,9 +578,9 @@
 		<key>countryKey</key>
 		<string>GQ</string>
 		<key>countryLatin</key>
-		<string>chi dao ji nei ya</string>
+		<string>Equatorial Guinea</string>
 		<key>countryName</key>
-		<string>赤道幾內亞</string>
+		<string>Equatorial Guinea</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -588,9 +588,9 @@
 		<key>countryKey</key>
 		<string>ER</string>
 		<key>countryLatin</key>
-		<string>e li chui ya</string>
+		<string>Eritrea</string>
 		<key>countryName</key>
-		<string>厄利垂亞</string>
+		<string>Eritrea</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -598,9 +598,9 @@
 		<key>countryKey</key>
 		<string>EE</string>
 		<key>countryLatin</key>
-		<string>ai sha ni ya</string>
+		<string>Estonia</string>
 		<key>countryName</key>
-		<string>愛沙尼亞</string>
+		<string>Estonia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -608,9 +608,9 @@
 		<key>countryKey</key>
 		<string>ET</string>
 		<key>countryLatin</key>
-		<string>yi suo bi ya</string>
+		<string>Ethiopia</string>
 		<key>countryName</key>
-		<string>衣索比亞</string>
+		<string>Ethiopia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -618,9 +618,9 @@
 		<key>countryKey</key>
 		<string>FO</string>
 		<key>countryLatin</key>
-		<string>fa luo qun dao</string>
+		<string>Faroe Islands</string>
 		<key>countryName</key>
-		<string>法羅群島</string>
+		<string>Faroe Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -628,9 +628,9 @@
 		<key>countryKey</key>
 		<string>FJ</string>
 		<key>countryLatin</key>
-		<string>fei ji</string>
+		<string>Fiji</string>
 		<key>countryName</key>
-		<string>斐濟</string>
+		<string>Fiji</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -638,9 +638,9 @@
 		<key>countryKey</key>
 		<string>FI</string>
 		<key>countryLatin</key>
-		<string>fen lan</string>
+		<string>Finland</string>
 		<key>countryName</key>
-		<string>芬蘭</string>
+		<string>Finland</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -648,9 +648,9 @@
 		<key>countryKey</key>
 		<string>FR</string>
 		<key>countryLatin</key>
-		<string>fa guo</string>
+		<string>France</string>
 		<key>countryName</key>
-		<string>法國</string>
+		<string>France</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -658,9 +658,9 @@
 		<key>countryKey</key>
 		<string>GF</string>
 		<key>countryLatin</key>
-		<string>fa shu gui ya na</string>
+		<string>French Guiana</string>
 		<key>countryName</key>
-		<string>法屬圭亞那</string>
+		<string>French Guiana</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -668,9 +668,9 @@
 		<key>countryKey</key>
 		<string>PF</string>
 		<key>countryLatin</key>
-		<string>fa shu bo li ni xi ya</string>
+		<string>French Polynesia</string>
 		<key>countryName</key>
-		<string>法屬玻里尼西亞</string>
+		<string>French Polynesia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -678,9 +678,9 @@
 		<key>countryKey</key>
 		<string>GA</string>
 		<key>countryLatin</key>
-		<string>jia peng</string>
+		<string>Gabon</string>
 		<key>countryName</key>
-		<string>加彭</string>
+		<string>Gabon</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -688,9 +688,9 @@
 		<key>countryKey</key>
 		<string>GM</string>
 		<key>countryLatin</key>
-		<string>gan bi ya</string>
+		<string>Gambia</string>
 		<key>countryName</key>
-		<string>甘比亞</string>
+		<string>Gambia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -698,9 +698,9 @@
 		<key>countryKey</key>
 		<string>GE</string>
 		<key>countryLatin</key>
-		<string>qiao zhi ya</string>
+		<string>Georgia</string>
 		<key>countryName</key>
-		<string>喬治亞</string>
+		<string>Georgia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -708,9 +708,9 @@
 		<key>countryKey</key>
 		<string>DE</string>
 		<key>countryLatin</key>
-		<string>de guo</string>
+		<string>Germany</string>
 		<key>countryName</key>
-		<string>德國</string>
+		<string>Germany</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -718,9 +718,9 @@
 		<key>countryKey</key>
 		<string>GH</string>
 		<key>countryLatin</key>
-		<string>jia na</string>
+		<string>Ghana</string>
 		<key>countryName</key>
-		<string>迦納</string>
+		<string>Ghana</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -728,9 +728,9 @@
 		<key>countryKey</key>
 		<string>GI</string>
 		<key>countryLatin</key>
-		<string>zhi bu luo tuo</string>
+		<string>Gibraltar</string>
 		<key>countryName</key>
-		<string>直布羅陀</string>
+		<string>Gibraltar</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -738,9 +738,9 @@
 		<key>countryKey</key>
 		<string>GR</string>
 		<key>countryLatin</key>
-		<string>xi la</string>
+		<string>Greece</string>
 		<key>countryName</key>
-		<string>希臘</string>
+		<string>Greece</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -748,9 +748,9 @@
 		<key>countryKey</key>
 		<string>GL</string>
 		<key>countryLatin</key>
-		<string>ge ling lan</string>
+		<string>Greenland</string>
 		<key>countryName</key>
-		<string>格陵蘭</string>
+		<string>Greenland</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -758,9 +758,9 @@
 		<key>countryKey</key>
 		<string>GD</string>
 		<key>countryLatin</key>
-		<string>ge rui na da</string>
+		<string>Grenada</string>
 		<key>countryName</key>
-		<string>格瑞那達</string>
+		<string>Grenada</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -768,9 +768,9 @@
 		<key>countryKey</key>
 		<string>GP</string>
 		<key>countryLatin</key>
-		<string>gua de luo pu</string>
+		<string>Guadeloupe</string>
 		<key>countryName</key>
-		<string>瓜地洛普</string>
+		<string>Guadeloupe</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -778,9 +778,9 @@
 		<key>countryKey</key>
 		<string>GU</string>
 		<key>countryLatin</key>
-		<string>guan dao</string>
+		<string>Guam</string>
 		<key>countryName</key>
-		<string>關島</string>
+		<string>Guam</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -788,9 +788,9 @@
 		<key>countryKey</key>
 		<string>GT</string>
 		<key>countryLatin</key>
-		<string>gua de ma la</string>
+		<string>Guatemala</string>
 		<key>countryName</key>
-		<string>瓜地馬拉</string>
+		<string>Guatemala</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -798,9 +798,9 @@
 		<key>countryKey</key>
 		<string>GN</string>
 		<key>countryLatin</key>
-		<string>ji nei ya</string>
+		<string>Guinea</string>
 		<key>countryName</key>
-		<string>幾內亞</string>
+		<string>Guinea</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -808,9 +808,9 @@
 		<key>countryKey</key>
 		<string>GW</string>
 		<key>countryLatin</key>
-		<string>ji nei ya bi suo</string>
+		<string>Guinea-Bissau</string>
 		<key>countryName</key>
-		<string>幾內亞比索</string>
+		<string>Guinea-Bissau</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -818,9 +818,9 @@
 		<key>countryKey</key>
 		<string>GY</string>
 		<key>countryLatin</key>
-		<string>gai ya na</string>
+		<string>Guyana</string>
 		<key>countryName</key>
-		<string>蓋亞那</string>
+		<string>Guyana</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -828,9 +828,9 @@
 		<key>countryKey</key>
 		<string>HT</string>
 		<key>countryLatin</key>
-		<string>hai de</string>
+		<string>Haiti</string>
 		<key>countryName</key>
-		<string>海地</string>
+		<string>Haiti</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -838,9 +838,9 @@
 		<key>countryKey</key>
 		<string>HN</string>
 		<key>countryLatin</key>
-		<string>hong dou la si</string>
+		<string>Honduras</string>
 		<key>countryName</key>
-		<string>宏都拉斯</string>
+		<string>Honduras</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -848,9 +848,9 @@
 		<key>countryKey</key>
 		<string>HU</string>
 		<key>countryLatin</key>
-		<string>xiong ya li</string>
+		<string>Hungary</string>
 		<key>countryName</key>
-		<string>匈牙利</string>
+		<string>Hungary</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -858,9 +858,9 @@
 		<key>countryKey</key>
 		<string>IS</string>
 		<key>countryLatin</key>
-		<string>bing dao</string>
+		<string>Iceland</string>
 		<key>countryName</key>
-		<string>冰島</string>
+		<string>Iceland</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -868,9 +868,9 @@
 		<key>countryKey</key>
 		<string>IN</string>
 		<key>countryLatin</key>
-		<string>yin du</string>
+		<string>India</string>
 		<key>countryName</key>
-		<string>印度</string>
+		<string>India</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -878,9 +878,9 @@
 		<key>countryKey</key>
 		<string>ID</string>
 		<key>countryLatin</key>
-		<string>yin ni</string>
+		<string>Indonesia</string>
 		<key>countryName</key>
-		<string>印尼</string>
+		<string>Indonesia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -888,9 +888,9 @@
 		<key>countryKey</key>
 		<string>IQ</string>
 		<key>countryLatin</key>
-		<string>yi la ke</string>
+		<string>Iraq</string>
 		<key>countryName</key>
-		<string>伊拉克</string>
+		<string>Iraq</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -898,9 +898,9 @@
 		<key>countryKey</key>
 		<string>IE</string>
 		<key>countryLatin</key>
-		<string>ai er lan</string>
+		<string>Ireland</string>
 		<key>countryName</key>
-		<string>愛爾蘭</string>
+		<string>Ireland</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -908,9 +908,9 @@
 		<key>countryKey</key>
 		<string>IL</string>
 		<key>countryLatin</key>
-		<string>yi se lie</string>
+		<string>Israel</string>
 		<key>countryName</key>
-		<string>以色列</string>
+		<string>Israel</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -918,9 +918,9 @@
 		<key>countryKey</key>
 		<string>IT</string>
 		<key>countryLatin</key>
-		<string>yi da li</string>
+		<string>Italy</string>
 		<key>countryName</key>
-		<string>義大利</string>
+		<string>Italy</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -928,9 +928,9 @@
 		<key>countryKey</key>
 		<string>JM</string>
 		<key>countryLatin</key>
-		<string>ya mai jia</string>
+		<string>Jamaica</string>
 		<key>countryName</key>
-		<string>牙買加</string>
+		<string>Jamaica</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -938,9 +938,9 @@
 		<key>countryKey</key>
 		<string>JP</string>
 		<key>countryLatin</key>
-		<string>ri ben</string>
+		<string>Japan</string>
 		<key>countryName</key>
-		<string>日本</string>
+		<string>Japan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -948,9 +948,9 @@
 		<key>countryKey</key>
 		<string>JO</string>
 		<key>countryLatin</key>
-		<string>yue dan</string>
+		<string>Jordan</string>
 		<key>countryName</key>
-		<string>約旦</string>
+		<string>Jordan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -958,9 +958,9 @@
 		<key>countryKey</key>
 		<string>KZ</string>
 		<key>countryLatin</key>
-		<string>ha sa ke</string>
+		<string>Kazakhstan</string>
 		<key>countryName</key>
-		<string>哈薩克</string>
+		<string>Kazakhstan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -968,9 +968,9 @@
 		<key>countryKey</key>
 		<string>KE</string>
 		<key>countryLatin</key>
-		<string>ken ya</string>
+		<string>Kenya</string>
 		<key>countryName</key>
-		<string>肯亞</string>
+		<string>Kenya</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -978,9 +978,9 @@
 		<key>countryKey</key>
 		<string>KI</string>
 		<key>countryLatin</key>
-		<string>ji li ba si</string>
+		<string>Kiribati</string>
 		<key>countryName</key>
-		<string>吉里巴斯</string>
+		<string>Kiribati</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -988,9 +988,9 @@
 		<key>countryKey</key>
 		<string>KW</string>
 		<key>countryLatin</key>
-		<string>ke wei te</string>
+		<string>Kuwait</string>
 		<key>countryName</key>
-		<string>科威特</string>
+		<string>Kuwait</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -998,9 +998,9 @@
 		<key>countryKey</key>
 		<string>KG</string>
 		<key>countryLatin</key>
-		<string>ji er ji si</string>
+		<string>Kyrgyzstan</string>
 		<key>countryName</key>
-		<string>吉爾吉斯</string>
+		<string>Kyrgyzstan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1008,9 +1008,9 @@
 		<key>countryKey</key>
 		<string>LV</string>
 		<key>countryLatin</key>
-		<string>la tuo wei ya</string>
+		<string>Latvia</string>
 		<key>countryName</key>
-		<string>拉脫維亞</string>
+		<string>Latvia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1018,9 +1018,9 @@
 		<key>countryKey</key>
 		<string>LB</string>
 		<key>countryLatin</key>
-		<string>li ba nen</string>
+		<string>Lebanon</string>
 		<key>countryName</key>
-		<string>黎巴嫩</string>
+		<string>Lebanon</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1028,9 +1028,9 @@
 		<key>countryKey</key>
 		<string>LS</string>
 		<key>countryLatin</key>
-		<string>lai suo tuo</string>
+		<string>Lesotho</string>
 		<key>countryName</key>
-		<string>賴索托</string>
+		<string>Lesotho</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1038,9 +1038,9 @@
 		<key>countryKey</key>
 		<string>LR</string>
 		<key>countryLatin</key>
-		<string>lai bi rui ya</string>
+		<string>Liberia</string>
 		<key>countryName</key>
-		<string>賴比瑞亞</string>
+		<string>Liberia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1048,9 +1048,9 @@
 		<key>countryKey</key>
 		<string>LI</string>
 		<key>countryLatin</key>
-		<string>lie zhi dun si deng</string>
+		<string>Liechtenstein</string>
 		<key>countryName</key>
-		<string>列支敦斯登</string>
+		<string>Liechtenstein</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1058,9 +1058,9 @@
 		<key>countryKey</key>
 		<string>LT</string>
 		<key>countryLatin</key>
-		<string>li tao wan</string>
+		<string>Lithuania</string>
 		<key>countryName</key>
-		<string>立陶宛</string>
+		<string>Lithuania</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1068,9 +1068,9 @@
 		<key>countryKey</key>
 		<string>LU</string>
 		<key>countryLatin</key>
-		<string>lu sen bao</string>
+		<string>Luxembourg</string>
 		<key>countryName</key>
-		<string>盧森堡</string>
+		<string>Luxembourg</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1078,9 +1078,9 @@
 		<key>countryKey</key>
 		<string>MG</string>
 		<key>countryLatin</key>
-		<string>ma da jia si jia</string>
+		<string>Madagascar</string>
 		<key>countryName</key>
-		<string>馬達加斯加</string>
+		<string>Madagascar</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1088,9 +1088,9 @@
 		<key>countryKey</key>
 		<string>MW</string>
 		<key>countryLatin</key>
-		<string>ma la wei</string>
+		<string>Malawi</string>
 		<key>countryName</key>
-		<string>馬拉威</string>
+		<string>Malawi</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1098,9 +1098,9 @@
 		<key>countryKey</key>
 		<string>MY</string>
 		<key>countryLatin</key>
-		<string>ma lai xi ya</string>
+		<string>Malaysia</string>
 		<key>countryName</key>
-		<string>馬來西亞</string>
+		<string>Malaysia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1108,9 +1108,9 @@
 		<key>countryKey</key>
 		<string>MV</string>
 		<key>countryLatin</key>
-		<string>ma er de fu</string>
+		<string>Maldives</string>
 		<key>countryName</key>
-		<string>馬爾地夫</string>
+		<string>Maldives</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1118,9 +1118,9 @@
 		<key>countryKey</key>
 		<string>ML</string>
 		<key>countryLatin</key>
-		<string>ma li</string>
+		<string>Mali</string>
 		<key>countryName</key>
-		<string>馬利</string>
+		<string>Mali</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1128,9 +1128,9 @@
 		<key>countryKey</key>
 		<string>MT</string>
 		<key>countryLatin</key>
-		<string>ma er ta</string>
+		<string>Malta</string>
 		<key>countryName</key>
-		<string>馬爾他</string>
+		<string>Malta</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1138,9 +1138,9 @@
 		<key>countryKey</key>
 		<string>MH</string>
 		<key>countryLatin</key>
-		<string>ma shao er qun dao</string>
+		<string>Marshall Islands</string>
 		<key>countryName</key>
-		<string>馬紹爾群島</string>
+		<string>Marshall Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1148,9 +1148,9 @@
 		<key>countryKey</key>
 		<string>MQ</string>
 		<key>countryLatin</key>
-		<string>ma ding ni ke dao</string>
+		<string>Martinique</string>
 		<key>countryName</key>
-		<string>馬丁尼克島</string>
+		<string>Martinique</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1158,9 +1158,9 @@
 		<key>countryKey</key>
 		<string>MR</string>
 		<key>countryLatin</key>
-		<string>mao li ta ni ya</string>
+		<string>Mauritania</string>
 		<key>countryName</key>
-		<string>茅利塔尼亞</string>
+		<string>Mauritania</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1168,9 +1168,9 @@
 		<key>countryKey</key>
 		<string>MU</string>
 		<key>countryLatin</key>
-		<string>mo li xi si</string>
+		<string>Mauritius</string>
 		<key>countryName</key>
-		<string>模里西斯</string>
+		<string>Mauritius</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1178,9 +1178,9 @@
 		<key>countryKey</key>
 		<string>YT</string>
 		<key>countryLatin</key>
-		<string>ma yue te</string>
+		<string>Mayotte</string>
 		<key>countryName</key>
-		<string>馬約特</string>
+		<string>Mayotte</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1188,9 +1188,9 @@
 		<key>countryKey</key>
 		<string>MX</string>
 		<key>countryLatin</key>
-		<string>mo xi ge</string>
+		<string>Mexico</string>
 		<key>countryName</key>
-		<string>墨西哥</string>
+		<string>Mexico</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1198,9 +1198,9 @@
 		<key>countryKey</key>
 		<string>MC</string>
 		<key>countryLatin</key>
-		<string>mo na ge</string>
+		<string>Monaco</string>
 		<key>countryName</key>
-		<string>摩納哥</string>
+		<string>Monaco</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1208,9 +1208,9 @@
 		<key>countryKey</key>
 		<string>MN</string>
 		<key>countryLatin</key>
-		<string>meng gu</string>
+		<string>Mongolia</string>
 		<key>countryName</key>
-		<string>蒙古</string>
+		<string>Mongolia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1218,9 +1218,9 @@
 		<key>countryKey</key>
 		<string>ME</string>
 		<key>countryLatin</key>
-		<string>meng te nei ge luo</string>
+		<string>Montenegro</string>
 		<key>countryName</key>
-		<string>蒙特內哥羅</string>
+		<string>Montenegro</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1228,9 +1228,9 @@
 		<key>countryKey</key>
 		<string>MS</string>
 		<key>countryLatin</key>
-		<string>meng zhe la</string>
+		<string>Montserrat</string>
 		<key>countryName</key>
-		<string>蒙哲臘</string>
+		<string>Montserrat</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1238,9 +1238,9 @@
 		<key>countryKey</key>
 		<string>MA</string>
 		<key>countryLatin</key>
-		<string>mo luo ge</string>
+		<string>Morocco</string>
 		<key>countryName</key>
-		<string>摩洛哥</string>
+		<string>Morocco</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1248,9 +1248,9 @@
 		<key>countryKey</key>
 		<string>MM</string>
 		<key>countryLatin</key>
-		<string>mian dian</string>
+		<string>Myanmar (Burma)</string>
 		<key>countryName</key>
-		<string>緬甸</string>
+		<string>Myanmar (Burma)</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1258,9 +1258,9 @@
 		<key>countryKey</key>
 		<string>NA</string>
 		<key>countryLatin</key>
-		<string>na mi bi ya</string>
+		<string>Namibia</string>
 		<key>countryName</key>
-		<string>納米比亞</string>
+		<string>Namibia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1268,9 +1268,9 @@
 		<key>countryKey</key>
 		<string>NR</string>
 		<key>countryLatin</key>
-		<string>nuo lu</string>
+		<string>Nauru</string>
 		<key>countryName</key>
-		<string>諾魯</string>
+		<string>Nauru</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1278,9 +1278,9 @@
 		<key>countryKey</key>
 		<string>NP</string>
 		<key>countryLatin</key>
-		<string>ni po er</string>
+		<string>Nepal</string>
 		<key>countryName</key>
-		<string>尼泊爾</string>
+		<string>Nepal</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1288,9 +1288,9 @@
 		<key>countryKey</key>
 		<string>NL</string>
 		<key>countryLatin</key>
-		<string>he lan</string>
+		<string>Netherlands</string>
 		<key>countryName</key>
-		<string>荷蘭</string>
+		<string>Netherlands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1298,9 +1298,9 @@
 		<key>countryKey</key>
 		<string>AN</string>
 		<key>countryLatin</key>
-		<string>ku la suo</string>
+		<string>Curacao</string>
 		<key>countryName</key>
-		<string>庫拉索</string>
+		<string>Curaçao</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1308,9 +1308,9 @@
 		<key>countryKey</key>
 		<string>NC</string>
 		<key>countryLatin</key>
-		<string>xin ka li duo ni ya</string>
+		<string>New Caledonia</string>
 		<key>countryName</key>
-		<string>新喀里多尼亞</string>
+		<string>New Caledonia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1318,9 +1318,9 @@
 		<key>countryKey</key>
 		<string>NZ</string>
 		<key>countryLatin</key>
-		<string>niu xi lan</string>
+		<string>New Zealand</string>
 		<key>countryName</key>
-		<string>紐西蘭</string>
+		<string>New Zealand</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1328,9 +1328,9 @@
 		<key>countryKey</key>
 		<string>NI</string>
 		<key>countryLatin</key>
-		<string>ni jia la gua</string>
+		<string>Nicaragua</string>
 		<key>countryName</key>
-		<string>尼加拉瓜</string>
+		<string>Nicaragua</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1338,9 +1338,9 @@
 		<key>countryKey</key>
 		<string>NE</string>
 		<key>countryLatin</key>
-		<string>ni ri</string>
+		<string>Niger</string>
 		<key>countryName</key>
-		<string>尼日</string>
+		<string>Niger</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1348,9 +1348,9 @@
 		<key>countryKey</key>
 		<string>NG</string>
 		<key>countryLatin</key>
-		<string>nai ji li ya</string>
+		<string>Nigeria</string>
 		<key>countryName</key>
-		<string>奈及利亞</string>
+		<string>Nigeria</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1358,9 +1358,9 @@
 		<key>countryKey</key>
 		<string>NU</string>
 		<key>countryLatin</key>
-		<string>niu ai dao</string>
+		<string>Niue</string>
 		<key>countryName</key>
-		<string>紐埃島</string>
+		<string>Niue</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1368,9 +1368,9 @@
 		<key>countryKey</key>
 		<string>NF</string>
 		<key>countryLatin</key>
-		<string>nuo fu ke dao</string>
+		<string>Norfolk Island</string>
 		<key>countryName</key>
-		<string>諾福克島</string>
+		<string>Norfolk Island</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1378,9 +1378,9 @@
 		<key>countryKey</key>
 		<string>MP</string>
 		<key>countryLatin</key>
-		<string>bei ma li ya na qun dao</string>
+		<string>Northern Mariana Islands</string>
 		<key>countryName</key>
-		<string>北馬里亞納群島</string>
+		<string>Northern Mariana Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1388,9 +1388,9 @@
 		<key>countryKey</key>
 		<string>NO</string>
 		<key>countryLatin</key>
-		<string>nuo wei</string>
+		<string>Norway</string>
 		<key>countryName</key>
-		<string>挪威</string>
+		<string>Norway</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1398,9 +1398,9 @@
 		<key>countryKey</key>
 		<string>OM</string>
 		<key>countryLatin</key>
-		<string>a man wang guo</string>
+		<string>Oman</string>
 		<key>countryName</key>
-		<string>阿曼王國</string>
+		<string>Oman</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1408,9 +1408,9 @@
 		<key>countryKey</key>
 		<string>PK</string>
 		<key>countryLatin</key>
-		<string>ba ji si tan</string>
+		<string>Pakistan</string>
 		<key>countryName</key>
-		<string>巴基斯坦</string>
+		<string>Pakistan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1418,9 +1418,9 @@
 		<key>countryKey</key>
 		<string>PW</string>
 		<key>countryLatin</key>
-		<string>bo liu</string>
+		<string>Palau</string>
 		<key>countryName</key>
-		<string>帛琉</string>
+		<string>Palau</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1428,9 +1428,9 @@
 		<key>countryKey</key>
 		<string>PA</string>
 		<key>countryLatin</key>
-		<string>ba na ma</string>
+		<string>Panama</string>
 		<key>countryName</key>
-		<string>巴拿馬</string>
+		<string>Panama</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1438,9 +1438,9 @@
 		<key>countryKey</key>
 		<string>PG</string>
 		<key>countryLatin</key>
-		<string>ba bu ya niu ji nei ya</string>
+		<string>Papua New Guinea</string>
 		<key>countryName</key>
-		<string>巴布亞紐幾內亞</string>
+		<string>Papua New Guinea</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1448,9 +1448,9 @@
 		<key>countryKey</key>
 		<string>PY</string>
 		<key>countryLatin</key>
-		<string>ba la gui</string>
+		<string>Paraguay</string>
 		<key>countryName</key>
-		<string>巴拉圭</string>
+		<string>Paraguay</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1458,9 +1458,9 @@
 		<key>countryKey</key>
 		<string>PE</string>
 		<key>countryLatin</key>
-		<string>mi lu</string>
+		<string>Peru</string>
 		<key>countryName</key>
-		<string>秘魯</string>
+		<string>Peru</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1468,9 +1468,9 @@
 		<key>countryKey</key>
 		<string>PH</string>
 		<key>countryLatin</key>
-		<string>fei lu bin</string>
+		<string>Philippines</string>
 		<key>countryName</key>
-		<string>菲律賓</string>
+		<string>Philippines</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1478,9 +1478,9 @@
 		<key>countryKey</key>
 		<string>PL</string>
 		<key>countryLatin</key>
-		<string>bo lan</string>
+		<string>Poland</string>
 		<key>countryName</key>
-		<string>波蘭</string>
+		<string>Poland</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1488,9 +1488,9 @@
 		<key>countryKey</key>
 		<string>PT</string>
 		<key>countryLatin</key>
-		<string>pu tao ya</string>
+		<string>Portugal</string>
 		<key>countryName</key>
-		<string>葡萄牙</string>
+		<string>Portugal</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1498,9 +1498,9 @@
 		<key>countryKey</key>
 		<string>PR</string>
 		<key>countryLatin</key>
-		<string>bo duo li ge</string>
+		<string>Puerto Rico</string>
 		<key>countryName</key>
-		<string>波多黎各</string>
+		<string>Puerto Rico</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1508,9 +1508,9 @@
 		<key>countryKey</key>
 		<string>QA</string>
 		<key>countryLatin</key>
-		<string>ka da</string>
+		<string>Qatar</string>
 		<key>countryName</key>
-		<string>卡達</string>
+		<string>Qatar</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1518,9 +1518,9 @@
 		<key>countryKey</key>
 		<string>RO</string>
 		<key>countryLatin</key>
-		<string>luo ma ni ya</string>
+		<string>Romania</string>
 		<key>countryName</key>
-		<string>羅馬尼亞</string>
+		<string>Romania</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1528,9 +1528,9 @@
 		<key>countryKey</key>
 		<string>RW</string>
 		<key>countryLatin</key>
-		<string>lu an da</string>
+		<string>Rwanda</string>
 		<key>countryName</key>
-		<string>盧安達</string>
+		<string>Rwanda</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1538,9 +1538,9 @@
 		<key>countryKey</key>
 		<string>WS</string>
 		<key>countryLatin</key>
-		<string>sa mo ya</string>
+		<string>Samoa</string>
 		<key>countryName</key>
-		<string>薩摩亞</string>
+		<string>Samoa</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1548,9 +1548,9 @@
 		<key>countryKey</key>
 		<string>SM</string>
 		<key>countryLatin</key>
-		<string>sheng ma li nuo</string>
+		<string>San Marino</string>
 		<key>countryName</key>
-		<string>聖馬利諾</string>
+		<string>San Marino</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1558,9 +1558,9 @@
 		<key>countryKey</key>
 		<string>SA</string>
 		<key>countryLatin</key>
-		<string>sha wu de a la bo</string>
+		<string>Saudi Arabia</string>
 		<key>countryName</key>
-		<string>沙烏地阿拉伯</string>
+		<string>Saudi Arabia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1568,9 +1568,9 @@
 		<key>countryKey</key>
 		<string>SN</string>
 		<key>countryLatin</key>
-		<string>sai nei jia er</string>
+		<string>Senegal</string>
 		<key>countryName</key>
-		<string>塞內加爾</string>
+		<string>Senegal</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1578,9 +1578,9 @@
 		<key>countryKey</key>
 		<string>RS</string>
 		<key>countryLatin</key>
-		<string>sai er wei ya</string>
+		<string>Serbia</string>
 		<key>countryName</key>
-		<string>塞爾維亞</string>
+		<string>Serbia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1588,9 +1588,9 @@
 		<key>countryKey</key>
 		<string>SC</string>
 		<key>countryLatin</key>
-		<string>sai xi er</string>
+		<string>Seychelles</string>
 		<key>countryName</key>
-		<string>塞席爾</string>
+		<string>Seychelles</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1598,9 +1598,9 @@
 		<key>countryKey</key>
 		<string>SL</string>
 		<key>countryLatin</key>
-		<string>shi zi shan gong he guo</string>
+		<string>Sierra Leone</string>
 		<key>countryName</key>
-		<string>獅子山共和國</string>
+		<string>Sierra Leone</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1608,9 +1608,9 @@
 		<key>countryKey</key>
 		<string>SG</string>
 		<key>countryLatin</key>
-		<string>xin jia po</string>
+		<string>Singapore</string>
 		<key>countryName</key>
-		<string>新加坡</string>
+		<string>Singapore</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1618,9 +1618,9 @@
 		<key>countryKey</key>
 		<string>SK</string>
 		<key>countryLatin</key>
-		<string>si luo fa ke</string>
+		<string>Slovakia</string>
 		<key>countryName</key>
-		<string>斯洛伐克</string>
+		<string>Slovakia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1628,9 +1628,9 @@
 		<key>countryKey</key>
 		<string>SI</string>
 		<key>countryLatin</key>
-		<string>si luo wei ni ya</string>
+		<string>Slovenia</string>
 		<key>countryName</key>
-		<string>斯洛維尼亞</string>
+		<string>Slovenia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1638,9 +1638,9 @@
 		<key>countryKey</key>
 		<string>SB</string>
 		<key>countryLatin</key>
-		<string>suo luo men qun dao</string>
+		<string>Solomon Islands</string>
 		<key>countryName</key>
-		<string>索羅門群島</string>
+		<string>Solomon Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1648,9 +1648,9 @@
 		<key>countryKey</key>
 		<string>ZA</string>
 		<key>countryLatin</key>
-		<string>nan fei</string>
+		<string>South Africa</string>
 		<key>countryName</key>
-		<string>南非</string>
+		<string>South Africa</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1658,9 +1658,9 @@
 		<key>countryKey</key>
 		<string>GS</string>
 		<key>countryLatin</key>
-		<string>nan qiao zhi ya yu nan san ming zhi qun dao</string>
+		<string>So. Georgia &amp; So. Sandwich Isl.</string>
 		<key>countryName</key>
-		<string>南喬治亞與南三明治群島</string>
+		<string>So. Georgia &amp; So. Sandwich Isl.</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1668,9 +1668,9 @@
 		<key>countryKey</key>
 		<string>ES</string>
 		<key>countryLatin</key>
-		<string>xi ban ya</string>
+		<string>Spain</string>
 		<key>countryName</key>
-		<string>西班牙</string>
+		<string>Spain</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1678,9 +1678,9 @@
 		<key>countryKey</key>
 		<string>LK</string>
 		<key>countryLatin</key>
-		<string>si li lan ka</string>
+		<string>Sri Lanka</string>
 		<key>countryName</key>
-		<string>斯里蘭卡</string>
+		<string>Sri Lanka</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1688,9 +1688,9 @@
 		<key>countryKey</key>
 		<string>SD</string>
 		<key>countryLatin</key>
-		<string>su dan</string>
+		<string>Sudan</string>
 		<key>countryName</key>
-		<string>蘇丹</string>
+		<string>Sudan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1698,9 +1698,9 @@
 		<key>countryKey</key>
 		<string>SR</string>
 		<key>countryLatin</key>
-		<string>su li nan</string>
+		<string>Suriname</string>
 		<key>countryName</key>
-		<string>蘇利南</string>
+		<string>Suriname</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1708,9 +1708,9 @@
 		<key>countryKey</key>
 		<string>SZ</string>
 		<key>countryLatin</key>
-		<string>shi wa ji lan</string>
+		<string>Swaziland</string>
 		<key>countryName</key>
-		<string>史瓦濟蘭</string>
+		<string>Swaziland</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1718,9 +1718,9 @@
 		<key>countryKey</key>
 		<string>SE</string>
 		<key>countryLatin</key>
-		<string>rui dian</string>
+		<string>Sweden</string>
 		<key>countryName</key>
-		<string>瑞典</string>
+		<string>Sweden</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1728,9 +1728,9 @@
 		<key>countryKey</key>
 		<string>CH</string>
 		<key>countryLatin</key>
-		<string>rui shi</string>
+		<string>Switzerland</string>
 		<key>countryName</key>
-		<string>瑞士</string>
+		<string>Switzerland</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1738,9 +1738,9 @@
 		<key>countryKey</key>
 		<string>TJ</string>
 		<key>countryLatin</key>
-		<string>ta ji ke</string>
+		<string>Tajikistan</string>
 		<key>countryName</key>
-		<string>塔吉克</string>
+		<string>Tajikistan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1748,9 +1748,9 @@
 		<key>countryKey</key>
 		<string>TH</string>
 		<key>countryLatin</key>
-		<string>tai guo</string>
+		<string>Thailand</string>
 		<key>countryName</key>
-		<string>泰國</string>
+		<string>Thailand</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1758,9 +1758,9 @@
 		<key>countryKey</key>
 		<string>TG</string>
 		<key>countryLatin</key>
-		<string>duo ge</string>
+		<string>Togo</string>
 		<key>countryName</key>
-		<string>多哥</string>
+		<string>Togo</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1768,9 +1768,9 @@
 		<key>countryKey</key>
 		<string>TK</string>
 		<key>countryLatin</key>
-		<string>tuo ke lao qun dao</string>
+		<string>Tokelau</string>
 		<key>countryName</key>
-		<string>托克勞群島</string>
+		<string>Tokelau</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1778,9 +1778,9 @@
 		<key>countryKey</key>
 		<string>TO</string>
 		<key>countryLatin</key>
-		<string>dong jia</string>
+		<string>Tonga</string>
 		<key>countryName</key>
-		<string>東加</string>
+		<string>Tonga</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1788,9 +1788,9 @@
 		<key>countryKey</key>
 		<string>TT</string>
 		<key>countryLatin</key>
-		<string>qian li da ji tuo ba ge</string>
+		<string>Trinidad &amp; Tobago</string>
 		<key>countryName</key>
-		<string>千里達及托巴哥</string>
+		<string>Trinidad &amp; Tobago</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1798,9 +1798,9 @@
 		<key>countryKey</key>
 		<string>TN</string>
 		<key>countryLatin</key>
-		<string>tu ni xi ya</string>
+		<string>Tunisia</string>
 		<key>countryName</key>
-		<string>突尼西亞</string>
+		<string>Tunisia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1808,9 +1808,9 @@
 		<key>countryKey</key>
 		<string>TR</string>
 		<key>countryLatin</key>
-		<string>tu er qi</string>
+		<string>Turkey</string>
 		<key>countryName</key>
-		<string>土耳其</string>
+		<string>Turkey</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1818,9 +1818,9 @@
 		<key>countryKey</key>
 		<string>TM</string>
 		<key>countryLatin</key>
-		<string>tu ku man</string>
+		<string>Turkmenistan</string>
 		<key>countryName</key>
-		<string>土庫曼</string>
+		<string>Turkmenistan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1828,9 +1828,9 @@
 		<key>countryKey</key>
 		<string>TC</string>
 		<key>countryLatin</key>
-		<string>tu ke si ji kai ke si qun dao</string>
+		<string>Turks &amp; Caicos Islands</string>
 		<key>countryName</key>
-		<string>土克斯及開科斯群島</string>
+		<string>Turks &amp; Caicos Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1838,9 +1838,9 @@
 		<key>countryKey</key>
 		<string>TV</string>
 		<key>countryLatin</key>
-		<string>tu wa lu</string>
+		<string>Tuvalu</string>
 		<key>countryName</key>
-		<string>吐瓦魯</string>
+		<string>Tuvalu</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1848,9 +1848,9 @@
 		<key>countryKey</key>
 		<string>UG</string>
 		<key>countryLatin</key>
-		<string>wu gan da</string>
+		<string>Uganda</string>
 		<key>countryName</key>
-		<string>烏干達</string>
+		<string>Uganda</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1858,9 +1858,9 @@
 		<key>countryKey</key>
 		<string>UA</string>
 		<key>countryLatin</key>
-		<string>wu ke lan</string>
+		<string>Ukraine</string>
 		<key>countryName</key>
-		<string>烏克蘭</string>
+		<string>Ukraine</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1868,9 +1868,9 @@
 		<key>countryKey</key>
 		<string>AE</string>
 		<key>countryLatin</key>
-		<string>a la bo lian he da gong guo</string>
+		<string>United Arab Emirates</string>
 		<key>countryName</key>
-		<string>阿拉伯聯合大公國</string>
+		<string>United Arab Emirates</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1878,9 +1878,9 @@
 		<key>countryKey</key>
 		<string>GB</string>
 		<key>countryLatin</key>
-		<string>ying guo</string>
+		<string>United Kingdom</string>
 		<key>countryName</key>
-		<string>英國</string>
+		<string>United Kingdom</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1888,9 +1888,9 @@
 		<key>countryKey</key>
 		<string>US</string>
 		<key>countryLatin</key>
-		<string>mei guo</string>
+		<string>United States</string>
 		<key>countryName</key>
-		<string>美國</string>
+		<string>United States</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1898,9 +1898,9 @@
 		<key>countryKey</key>
 		<string>UY</string>
 		<key>countryLatin</key>
-		<string>wu la gui</string>
+		<string>Uruguay</string>
 		<key>countryName</key>
-		<string>烏拉圭</string>
+		<string>Uruguay</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1908,9 +1908,9 @@
 		<key>countryKey</key>
 		<string>UZ</string>
 		<key>countryLatin</key>
-		<string>wu zi bie ke</string>
+		<string>Uzbekistan</string>
 		<key>countryName</key>
-		<string>烏茲別克</string>
+		<string>Uzbekistan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1918,9 +1918,9 @@
 		<key>countryKey</key>
 		<string>VU</string>
 		<key>countryLatin</key>
-		<string>wan na du</string>
+		<string>Vanuatu</string>
 		<key>countryName</key>
-		<string>萬那杜</string>
+		<string>Vanuatu</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1928,9 +1928,9 @@
 		<key>countryKey</key>
 		<string>WF</string>
 		<key>countryLatin</key>
-		<string>wa li si qun dao he fu tu na qun dao</string>
+		<string>Wallis &amp; Futuna</string>
 		<key>countryName</key>
-		<string>瓦利斯群島和富圖那群島</string>
+		<string>Wallis &amp; Futuna</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1938,9 +1938,9 @@
 		<key>countryKey</key>
 		<string>YE</string>
 		<key>countryLatin</key>
-		<string>ye men</string>
+		<string>Yemen</string>
 		<key>countryName</key>
-		<string>葉門</string>
+		<string>Yemen</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1948,9 +1948,9 @@
 		<key>countryKey</key>
 		<string>ZM</string>
 		<key>countryLatin</key>
-		<string>shang bi ya</string>
+		<string>Zambia</string>
 		<key>countryName</key>
-		<string>尚比亞</string>
+		<string>Zambia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1958,9 +1958,9 @@
 		<key>countryKey</key>
 		<string>ZW</string>
 		<key>countryLatin</key>
-		<string>xin ba wei</string>
+		<string>Zimbabwe</string>
 		<key>countryName</key>
-		<string>辛巴威</string>
+		<string>Zimbabwe</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1968,9 +1968,9 @@
 		<key>countryKey</key>
 		<string>AX</string>
 		<key>countryLatin</key>
-		<string>ao lan qun dao</string>
+		<string>Aland Islands</string>
 		<key>countryName</key>
-		<string>奧蘭群島</string>
+		<string>Åland Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1978,9 +1978,9 @@
 		<key>countryKey</key>
 		<string>BO</string>
 		<key>countryLatin</key>
-		<string>bo li wei ya</string>
+		<string>Bolivia</string>
 		<key>countryName</key>
-		<string>玻利維亞</string>
+		<string>Bolivia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1988,9 +1988,9 @@
 		<key>countryKey</key>
 		<string>BN</string>
 		<key>countryLatin</key>
-		<string>wen lai</string>
+		<string>Brunei</string>
 		<key>countryName</key>
-		<string>汶萊</string>
+		<string>Brunei</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -1998,9 +1998,9 @@
 		<key>countryKey</key>
 		<string>CC</string>
 		<key>countryLatin</key>
-		<string>ke ke si （ji lin） qun dao</string>
+		<string>Cocos (Keeling) Islands</string>
 		<key>countryName</key>
-		<string>科科斯（基林）群島</string>
+		<string>Cocos (Keeling) Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2008,9 +2008,9 @@
 		<key>countryKey</key>
 		<string>CD</string>
 		<key>countryLatin</key>
-		<string>gang guo （jin xia sha）</string>
+		<string>Congo - Kinshasa</string>
 		<key>countryName</key>
-		<string>剛果（金夏沙）</string>
+		<string>Congo - Kinshasa</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2018,9 +2018,9 @@
 		<key>countryKey</key>
 		<string>CI</string>
 		<key>countryLatin</key>
-		<string>xiang ya hai an</string>
+		<string>Cote d’Ivoire</string>
 		<key>countryName</key>
-		<string>象牙海岸</string>
+		<string>Côte d’Ivoire</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2028,9 +2028,9 @@
 		<key>countryKey</key>
 		<string>FK</string>
 		<key>countryLatin</key>
-		<string>fu ke lan qun dao</string>
+		<string>Falkland Islands</string>
 		<key>countryName</key>
-		<string>福克蘭群島</string>
+		<string>Falkland Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2038,9 +2038,9 @@
 		<key>countryKey</key>
 		<string>GG</string>
 		<key>countryLatin</key>
-		<string>gen xi</string>
+		<string>Guernsey</string>
 		<key>countryName</key>
-		<string>根息</string>
+		<string>Guernsey</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2048,9 +2048,9 @@
 		<key>countryKey</key>
 		<string>VA</string>
 		<key>countryLatin</key>
-		<string>fan di gang</string>
+		<string>Vatican City</string>
 		<key>countryName</key>
-		<string>梵蒂岡</string>
+		<string>Vatican City</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2058,9 +2058,9 @@
 		<key>countryKey</key>
 		<string>HK</string>
 		<key>countryLatin</key>
-		<string>xiang gang （zhong guo）</string>
+		<string>Hong Kong (China)</string>
 		<key>countryName</key>
-		<string>香港（中國）</string>
+		<string>Hong Kong (China)</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2068,9 +2068,9 @@
 		<key>countryKey</key>
 		<string>IR</string>
 		<key>countryLatin</key>
-		<string>yi lang</string>
+		<string>Iran</string>
 		<key>countryName</key>
-		<string>伊朗</string>
+		<string>Iran</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2078,9 +2078,9 @@
 		<key>countryKey</key>
 		<string>IM</string>
 		<key>countryLatin</key>
-		<string>man dao</string>
+		<string>Isle of Man</string>
 		<key>countryName</key>
-		<string>曼島</string>
+		<string>Isle of Man</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2088,9 +2088,9 @@
 		<key>countryKey</key>
 		<string>JE</string>
 		<key>countryLatin</key>
-		<string>ze xi dao</string>
+		<string>Jersey</string>
 		<key>countryName</key>
-		<string>澤西島</string>
+		<string>Jersey</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2098,9 +2098,9 @@
 		<key>countryKey</key>
 		<string>KP</string>
 		<key>countryLatin</key>
-		<string>bei han</string>
+		<string>North Korea</string>
 		<key>countryName</key>
-		<string>北韓</string>
+		<string>North Korea</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2108,9 +2108,9 @@
 		<key>countryKey</key>
 		<string>KR</string>
 		<key>countryLatin</key>
-		<string>nan han</string>
+		<string>South Korea</string>
 		<key>countryName</key>
-		<string>南韓</string>
+		<string>South Korea</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2118,9 +2118,9 @@
 		<key>countryKey</key>
 		<string>LA</string>
 		<key>countryLatin</key>
-		<string>liao guo</string>
+		<string>Laos</string>
 		<key>countryName</key>
-		<string>寮國</string>
+		<string>Laos</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2128,9 +2128,9 @@
 		<key>countryKey</key>
 		<string>LY</string>
 		<key>countryLatin</key>
-		<string>li bi ya</string>
+		<string>Libya</string>
 		<key>countryName</key>
-		<string>利比亞</string>
+		<string>Libya</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2138,9 +2138,9 @@
 		<key>countryKey</key>
 		<string>MO</string>
 		<key>countryLatin</key>
-		<string>ao men （zhong guo）</string>
+		<string>Macau (China)</string>
 		<key>countryName</key>
-		<string>澳門（中國）</string>
+		<string>Macau (China)</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2148,9 +2148,9 @@
 		<key>countryKey</key>
 		<string>MK</string>
 		<key>countryLatin</key>
-		<string>ma qi dun</string>
+		<string>Macedonia</string>
 		<key>countryName</key>
-		<string>馬其頓</string>
+		<string>Macedonia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2158,9 +2158,9 @@
 		<key>countryKey</key>
 		<string>FM</string>
 		<key>countryLatin</key>
-		<string>mi ke luo ni xi ya qun dao</string>
+		<string>Micronesia</string>
 		<key>countryName</key>
-		<string>密克羅尼西亞群島</string>
+		<string>Micronesia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2168,9 +2168,9 @@
 		<key>countryKey</key>
 		<string>MD</string>
 		<key>countryLatin</key>
-		<string>mo er duo wa</string>
+		<string>Moldova</string>
 		<key>countryName</key>
-		<string>摩爾多瓦</string>
+		<string>Moldova</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2178,9 +2178,9 @@
 		<key>countryKey</key>
 		<string>MZ</string>
 		<key>countryLatin</key>
-		<string>mo san bi ke</string>
+		<string>Mozambique</string>
 		<key>countryName</key>
-		<string>莫三比克</string>
+		<string>Mozambique</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2188,9 +2188,9 @@
 		<key>countryKey</key>
 		<string>PS</string>
 		<key>countryLatin</key>
-		<string>ba lei si tan zi zhi qu</string>
+		<string>Palestinian Territories</string>
 		<key>countryName</key>
-		<string>巴勒斯坦自治區</string>
+		<string>Palestinian Territories</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2198,9 +2198,9 @@
 		<key>countryKey</key>
 		<string>PN</string>
 		<key>countryLatin</key>
-		<string>pi te ken qun dao</string>
+		<string>Pitcairn Islands</string>
 		<key>countryName</key>
-		<string>皮特肯群島</string>
+		<string>Pitcairn Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2208,9 +2208,9 @@
 		<key>countryKey</key>
 		<string>RE</string>
 		<key>countryLatin</key>
-		<string>liu ni wang</string>
+		<string>Reunion</string>
 		<key>countryName</key>
-		<string>留尼旺</string>
+		<string>Réunion</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2218,9 +2218,9 @@
 		<key>countryKey</key>
 		<string>RU</string>
 		<key>countryLatin</key>
-		<string>e luo si</string>
+		<string>Russia</string>
 		<key>countryName</key>
-		<string>俄羅斯</string>
+		<string>Russia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2228,9 +2228,9 @@
 		<key>countryKey</key>
 		<string>BL</string>
 		<key>countryLatin</key>
-		<string>sheng ba se mi</string>
+		<string>St. Barthelemy</string>
 		<key>countryName</key>
-		<string>聖巴瑟米</string>
+		<string>St. Barthélemy</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2238,9 +2238,9 @@
 		<key>countryKey</key>
 		<string>SH</string>
 		<key>countryLatin</key>
-		<string>sheng he lei na dao</string>
+		<string>St. Helena</string>
 		<key>countryName</key>
-		<string>聖赫勒拿島</string>
+		<string>St. Helena</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2248,9 +2248,9 @@
 		<key>countryKey</key>
 		<string>KN</string>
 		<key>countryLatin</key>
-		<string>sheng ke li si duo fu ji ni wei si</string>
+		<string>St. Kitts &amp; Nevis</string>
 		<key>countryName</key>
-		<string>聖克里斯多福及尼維斯</string>
+		<string>St. Kitts &amp; Nevis</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2258,9 +2258,9 @@
 		<key>countryKey</key>
 		<string>LC</string>
 		<key>countryLatin</key>
-		<string>sheng lu xi ya</string>
+		<string>St. Lucia</string>
 		<key>countryName</key>
-		<string>聖露西亞</string>
+		<string>St. Lucia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2268,9 +2268,9 @@
 		<key>countryKey</key>
 		<string>MF</string>
 		<key>countryLatin</key>
-		<string>fa shu sheng ma ding</string>
+		<string>St. Martin</string>
 		<key>countryName</key>
-		<string>法屬聖馬丁</string>
+		<string>St. Martin</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2278,9 +2278,9 @@
 		<key>countryKey</key>
 		<string>PM</string>
 		<key>countryLatin</key>
-		<string>sheng pi ai er he mi ke long qun dao</string>
+		<string>St. Pierre &amp; Miquelon</string>
 		<key>countryName</key>
-		<string>聖皮埃爾和密克隆群島</string>
+		<string>St. Pierre &amp; Miquelon</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2288,9 +2288,9 @@
 		<key>countryKey</key>
 		<string>VC</string>
 		<key>countryLatin</key>
-		<string>sheng wen sen ji ge rui na ding</string>
+		<string>St. Vincent &amp; Grenadines</string>
 		<key>countryName</key>
-		<string>聖文森及格瑞那丁</string>
+		<string>St. Vincent &amp; Grenadines</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2298,9 +2298,9 @@
 		<key>countryKey</key>
 		<string>ST</string>
 		<key>countryLatin</key>
-		<string>sheng duo mei pu lin xi bi</string>
+		<string>Sao Tome &amp; Principe</string>
 		<key>countryName</key>
-		<string>聖多美普林西比</string>
+		<string>São Tomé &amp; Príncipe</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2308,9 +2308,9 @@
 		<key>countryKey</key>
 		<string>SO</string>
 		<key>countryLatin</key>
-		<string>suo ma li ya</string>
+		<string>Somalia</string>
 		<key>countryName</key>
-		<string>索馬利亞</string>
+		<string>Somalia</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2318,9 +2318,9 @@
 		<key>countryKey</key>
 		<string>SJ</string>
 		<key>countryLatin</key>
-		<string>leng an ji yang mian</string>
+		<string>Svalbard &amp; Jan Mayen</string>
 		<key>countryName</key>
-		<string>冷岸及央棉</string>
+		<string>Svalbard &amp; Jan Mayen</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2328,9 +2328,9 @@
 		<key>countryKey</key>
 		<string>SY</string>
 		<key>countryLatin</key>
-		<string>xu li ya</string>
+		<string>Syria</string>
 		<key>countryName</key>
-		<string>敘利亞</string>
+		<string>Syria</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2338,9 +2338,9 @@
 		<key>countryKey</key>
 		<string>TW</string>
 		<key>countryLatin</key>
-		<string>tai wan</string>
+		<string>Taiwan</string>
 		<key>countryName</key>
-		<string>台灣 (中國)</string>
+		<string>Taiwan (China)</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2348,9 +2348,9 @@
 		<key>countryKey</key>
 		<string>TZ</string>
 		<key>countryLatin</key>
-		<string>tan shang ni ya</string>
+		<string>Tanzania</string>
 		<key>countryName</key>
-		<string>坦尚尼亞</string>
+		<string>Tanzania</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2358,19 +2358,19 @@
 		<key>countryKey</key>
 		<string>TL</string>
 		<key>countryLatin</key>
-		<string>dong di wen</string>
+		<string>Timor-Leste</string>
 		<key>countryName</key>
-		<string>東帝汶</string>
+		<string>Timor-Leste</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
 		<string>+58</string>
-		<key>countryKey</key>
+		<key>countryKey - 2</key>
 		<string>VE</string>
 		<key>countryLatin</key>
-		<string>wei nei rui la</string>
+		<string>Venezuela</string>
 		<key>countryName</key>
-		<string>委內瑞拉</string>
+		<string>Venezuela</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2378,9 +2378,9 @@
 		<key>countryKey</key>
 		<string>VN</string>
 		<key>countryLatin</key>
-		<string>yue nan</string>
+		<string>Vietnam</string>
 		<key>countryName</key>
-		<string>越南</string>
+		<string>Vietnam</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2388,9 +2388,9 @@
 		<key>countryKey</key>
 		<string>VG</string>
 		<key>countryLatin</key>
-		<string>ying shu wei jing qun dao</string>
+		<string>British Virgin Islands</string>
 		<key>countryName</key>
-		<string>英屬維京群島</string>
+		<string>British Virgin Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2398,9 +2398,9 @@
 		<key>countryKey</key>
 		<string>VI</string>
 		<key>countryLatin</key>
-		<string>mei shu wei jing qun dao</string>
+		<string>U.S. Virgin Islands</string>
 		<key>countryName</key>
-		<string>美屬維京群島</string>
+		<string>U.S. Virgin Islands</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2408,9 +2408,9 @@
 		<key>countryKey</key>
 		<string>SS</string>
 		<key>countryLatin</key>
-		<string>nan su dan</string>
+		<string>South Sudan</string>
 		<key>countryName</key>
-		<string>南蘇丹</string>
+		<string>South Sudan</string>
 	</dict>
 	<dict>
 		<key>countryCode</key>
@@ -2418,9 +2418,9 @@
 		<key>countryKey</key>
 		<string>XK</string>
 		<key>countryLatin</key>
-		<string>ke suo wo</string>
+		<string>Kosovo</string>
 		<key>countryName</key>
-		<string>科索沃</string>
+		<string>Kosovo</string>
 	</dict>
 </array>
 </plist>

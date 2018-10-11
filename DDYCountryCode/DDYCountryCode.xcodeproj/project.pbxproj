@@ -16,12 +16,15 @@
 		A4AA9592216DDFCC00902BBD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AA9585216DDFCC00902BBD /* main.m */; };
 		A4AA9593216DDFCC00902BBD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AA9587216DDFCC00902BBD /* ViewController.m */; };
 		A4AA9595216DE3D500902BBD /* DDYCountryCode.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA9594216DE3D500902BBD /* DDYCountryCode.plist */; };
-		A4AA959A216DE81700902BBD /* DDYCountryCodeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AA9599216DE81700902BBD /* DDYCountryCodeModel.m */; };
 		A4AA959D216DE82A00902BBD /* DDYCountryCodeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AA959C216DE82A00902BBD /* DDYCountryCodeVC.m */; };
-		A4AA95A8216EDEC500902BBD /* Country_E.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95A4216EDEC400902BBD /* Country_E.plist */; };
-		A4AA95A9216EDEC500902BBD /* Country_J.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95A5216EDEC400902BBD /* Country_J.plist */; };
-		A4AA95AA216EDEC500902BBD /* Country_S.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95A6216EDEC400902BBD /* Country_S.plist */; };
-		A4AA95AB216EDEC500902BBD /* Country_T.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95A7216EDEC400902BBD /* Country_T.plist */; };
+		A4AA95B1216EEA7A00902BBD /* Country_E.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95AD216EEA7A00902BBD /* Country_E.plist */; };
+		A4AA95B2216EEA7A00902BBD /* Country_J.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95AE216EEA7A00902BBD /* Country_J.plist */; };
+		A4AA95B3216EEA7A00902BBD /* Country_S.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95AF216EEA7A00902BBD /* Country_S.plist */; };
+		A4AA95B4216EEA7A00902BBD /* Country_T.plist in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95B0216EEA7A00902BBD /* Country_T.plist */; };
+		A4AA95B8216EEAB100902BBD /* DDYCountry.strings in Resources */ = {isa = PBXBuildFile; fileRef = A4AA95BA216EEAB100902BBD /* DDYCountry.strings */; };
+		A4AA95C1216EEBDA00902BBD /* DDYLanguageTool.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AA95C0216EEBDA00902BBD /* DDYLanguageTool.m */; };
+		A4AA95C4216EEC1900902BBD /* DDYLanguageSelectVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AA95C3216EEC1900902BBD /* DDYLanguageSelectVC.m */; };
+		A4AA95C7216EF53000902BBD /* DDYCountryCodeSelectVC.m in Sources */ = {isa = PBXBuildFile; fileRef = A4AA95C6216EF53000902BBD /* DDYCountryCodeSelectVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,16 +43,25 @@
 		A4AA9586216DDFCC00902BBD /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A4AA9587216DDFCC00902BBD /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		A4AA9594216DE3D500902BBD /* DDYCountryCode.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DDYCountryCode.plist; sourceTree = "<group>"; };
-		A4AA9598216DE81700902BBD /* DDYCountryCodeModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDYCountryCodeModel.h; sourceTree = "<group>"; };
-		A4AA9599216DE81700902BBD /* DDYCountryCodeModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDYCountryCodeModel.m; sourceTree = "<group>"; };
 		A4AA959B216DE82A00902BBD /* DDYCountryCodeVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDYCountryCodeVC.h; sourceTree = "<group>"; };
 		A4AA959C216DE82A00902BBD /* DDYCountryCodeVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDYCountryCodeVC.m; sourceTree = "<group>"; };
 		A4AA95A1216E0B5700902BBD /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
 		A4AA95A2216E0B6100902BBD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
-		A4AA95A4216EDEC400902BBD /* Country_E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_E.plist; sourceTree = "<group>"; };
-		A4AA95A5216EDEC400902BBD /* Country_J.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_J.plist; sourceTree = "<group>"; };
-		A4AA95A6216EDEC400902BBD /* Country_S.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_S.plist; sourceTree = "<group>"; };
-		A4AA95A7216EDEC400902BBD /* Country_T.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_T.plist; sourceTree = "<group>"; };
+		A4AA95AD216EEA7A00902BBD /* Country_E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_E.plist; sourceTree = "<group>"; };
+		A4AA95AE216EEA7A00902BBD /* Country_J.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_J.plist; sourceTree = "<group>"; };
+		A4AA95AF216EEA7A00902BBD /* Country_S.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_S.plist; sourceTree = "<group>"; };
+		A4AA95B0216EEA7A00902BBD /* Country_T.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Country_T.plist; sourceTree = "<group>"; };
+		A4AA95B7216EEAA200902BBD /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		A4AA95B9216EEAB100902BBD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/DDYCountry.strings; sourceTree = "<group>"; };
+		A4AA95BB216EEAB200902BBD /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/DDYCountry.strings"; sourceTree = "<group>"; };
+		A4AA95BC216EEAB400902BBD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/DDYCountry.strings; sourceTree = "<group>"; };
+		A4AA95BD216EEAB500902BBD /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/DDYCountry.strings"; sourceTree = "<group>"; };
+		A4AA95BF216EEBDA00902BBD /* DDYLanguageTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDYLanguageTool.h; sourceTree = "<group>"; };
+		A4AA95C0216EEBDA00902BBD /* DDYLanguageTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDYLanguageTool.m; sourceTree = "<group>"; };
+		A4AA95C2216EEC1900902BBD /* DDYLanguageSelectVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDYLanguageSelectVC.h; sourceTree = "<group>"; };
+		A4AA95C3216EEC1900902BBD /* DDYLanguageSelectVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDYLanguageSelectVC.m; sourceTree = "<group>"; };
+		A4AA95C5216EF53000902BBD /* DDYCountryCodeSelectVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDYCountryCodeSelectVC.h; sourceTree = "<group>"; };
+		A4AA95C6216EF53000902BBD /* DDYCountryCodeSelectVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDYCountryCodeSelectVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +94,7 @@
 		A4AA955C216DDF1E00902BBD /* DDYCountryCode */ = {
 			isa = PBXGroup;
 			children = (
+				A4AA95BE216EEBDA00902BBD /* DDYLanguageTool */,
 				A4AA95A3216EDA9500902BBD /* DDYCountryCode1 */,
 				A4AA9570216DDFCC00902BBD /* DDYCountryCode2 */,
 				A4AA9578216DDFCC00902BBD /* DDYSectionIndex */,
@@ -94,8 +107,6 @@
 			isa = PBXGroup;
 			children = (
 				A4AA9594216DE3D500902BBD /* DDYCountryCode.plist */,
-				A4AA9598216DE81700902BBD /* DDYCountryCodeModel.h */,
-				A4AA9599216DE81700902BBD /* DDYCountryCodeModel.m */,
 				A4AA959B216DE82A00902BBD /* DDYCountryCodeVC.h */,
 				A4AA959C216DE82A00902BBD /* DDYCountryCodeVC.m */,
 			);
@@ -132,12 +143,34 @@
 		A4AA95A3216EDA9500902BBD /* DDYCountryCode1 */ = {
 			isa = PBXGroup;
 			children = (
-				A4AA95A4216EDEC400902BBD /* Country_E.plist */,
-				A4AA95A5216EDEC400902BBD /* Country_J.plist */,
-				A4AA95A6216EDEC400902BBD /* Country_S.plist */,
-				A4AA95A7216EDEC400902BBD /* Country_T.plist */,
+				A4AA95AC216EEA7A00902BBD /* resources */,
+				A4AA95BA216EEAB100902BBD /* DDYCountry.strings */,
+				A4AA95C5216EF53000902BBD /* DDYCountryCodeSelectVC.h */,
+				A4AA95C6216EF53000902BBD /* DDYCountryCodeSelectVC.m */,
 			);
 			path = DDYCountryCode1;
+			sourceTree = "<group>";
+		};
+		A4AA95AC216EEA7A00902BBD /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				A4AA95AD216EEA7A00902BBD /* Country_E.plist */,
+				A4AA95AE216EEA7A00902BBD /* Country_J.plist */,
+				A4AA95AF216EEA7A00902BBD /* Country_S.plist */,
+				A4AA95B0216EEA7A00902BBD /* Country_T.plist */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+		A4AA95BE216EEBDA00902BBD /* DDYLanguageTool */ = {
+			isa = PBXGroup;
+			children = (
+				A4AA95BF216EEBDA00902BBD /* DDYLanguageTool.h */,
+				A4AA95C0216EEBDA00902BBD /* DDYLanguageTool.m */,
+				A4AA95C2216EEC1900902BBD /* DDYLanguageSelectVC.h */,
+				A4AA95C3216EEC1900902BBD /* DDYLanguageSelectVC.m */,
+			);
+			path = DDYLanguageTool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -181,6 +214,9 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
+				ja,
+				"zh-Hant",
 			);
 			mainGroup = A4AA9551216DDF1E00902BBD;
 			productRefGroup = A4AA955B216DDF1E00902BBD /* Products */;
@@ -197,13 +233,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A4AA95AB216EDEC500902BBD /* Country_T.plist in Resources */,
+				A4AA95B4216EEA7A00902BBD /* Country_T.plist in Resources */,
 				A4AA9590216DDFCC00902BBD /* LaunchScreen.storyboard in Resources */,
+				A4AA95B2216EEA7A00902BBD /* Country_J.plist in Resources */,
+				A4AA95B1216EEA7A00902BBD /* Country_E.plist in Resources */,
+				A4AA95B3216EEA7A00902BBD /* Country_S.plist in Resources */,
 				A4AA9595216DE3D500902BBD /* DDYCountryCode.plist in Resources */,
-				A4AA95A9216EDEC500902BBD /* Country_J.plist in Resources */,
 				A4AA9591216DDFCC00902BBD /* Info.plist in Resources */,
-				A4AA95A8216EDEC500902BBD /* Country_E.plist in Resources */,
-				A4AA95AA216EDEC500902BBD /* Country_S.plist in Resources */,
+				A4AA95B8216EEAB100902BBD /* DDYCountry.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,11 +252,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4AA959D216DE82A00902BBD /* DDYCountryCodeVC.m in Sources */,
+				A4AA95C7216EF53000902BBD /* DDYCountryCodeSelectVC.m in Sources */,
 				A4AA9593216DDFCC00902BBD /* ViewController.m in Sources */,
 				A4AA958C216DDFCC00902BBD /* DDYIndexView.m in Sources */,
 				A4AA958D216DDFCC00902BBD /* NSArray+DDYExtension.m in Sources */,
+				A4AA95C4216EEC1900902BBD /* DDYLanguageSelectVC.m in Sources */,
+				A4AA95C1216EEBDA00902BBD /* DDYLanguageTool.m in Sources */,
 				A4AA958E216DDFCC00902BBD /* UITableView+DDYIndexView.m in Sources */,
-				A4AA959A216DE81700902BBD /* DDYCountryCodeModel.m in Sources */,
 				A4AA9592216DDFCC00902BBD /* main.m in Sources */,
 				A4AA958F216DDFCC00902BBD /* AppDelegate.m in Sources */,
 			);
@@ -234,8 +273,20 @@
 				A4AA9583216DDFCC00902BBD /* Base */,
 				A4AA95A1216E0B5700902BBD /* zh-Hans */,
 				A4AA95A2216E0B6100902BBD /* ja */,
+				A4AA95B7216EEAA200902BBD /* zh-Hant */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		A4AA95BA216EEAB100902BBD /* DDYCountry.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A4AA95B9216EEAB100902BBD /* en */,
+				A4AA95BB216EEAB200902BBD /* zh-Hans */,
+				A4AA95BC216EEAB400902BBD /* ja */,
+				A4AA95BD216EEAB500902BBD /* zh-Hant */,
+			);
+			name = DDYCountry.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
