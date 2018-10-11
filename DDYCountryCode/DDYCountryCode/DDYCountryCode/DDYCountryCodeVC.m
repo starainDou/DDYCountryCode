@@ -101,6 +101,7 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
 }
 
 - (void)loadCountryData {
+    // 这里只是基本演示，具体优化啥的自己酌情考虑
     dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
         // 原始数据
         NSArray *originalArray = [DDYCountryCodeModel countryModelArray];
