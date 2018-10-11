@@ -32,10 +32,10 @@ static inline void ddy_Swizzle(Class class, SEL originalSelector, SEL swizzledSe
 
 - (NSString *)ddy_LocalizedStringForKey:(NSString *)key value:(NSString *)value table:(NSString *)tableName {
     NSString *language = [[NSUserDefaults standardUserDefaults] objectForKey:DDYLanguages];
-    if (language) { NSLog(@"111_%@", language);
+    if (language) {
         NSBundle *languageBundle = [NSBundle bundleWithPath:[[NSBundle mainBundle] pathForResource:language ofType:@"lproj"]];
         return [languageBundle ddy_LocalizedStringForKey:key value:value table:tableName];
-    }NSLog(@"3333");
+    }
     return [self ddy_LocalizedStringForKey:key value:value table:tableName];
 }
 

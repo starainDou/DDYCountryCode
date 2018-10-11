@@ -68,6 +68,7 @@
     [self.view addSubview:self.button1];
     [self.view addSubview:self.button2];
     [self.view addSubview:self.button3];
+    [DDYCountryCodeVC prepareData];
 }
 
 - (void)handleBtn:(UIButton *)sender {
@@ -82,8 +83,8 @@
 
 - (void)countryCodeSelectWithSystem {
     DDYCountryCodeVC *vc = [[DDYCountryCodeVC alloc] init];
-    [vc setCountryBlock:^(NSString *countryCode, NSString *countryKey, NSString *countryName, NSString *countryLatin) {
-        NSString *title = [NSString stringWithFormat:@"选择的国家:%@ 简称:%@ 区号:%@", countryName, countryKey, countryCode];
+    [vc setCountryBlock:^(NSString *countryCode, NSString *countrykey, NSString *countryName, NSString *countryLatin) {
+        NSString *title = [NSString stringWithFormat:@"选择的国家:%@ 简称:%@ 区号:%@", countryName, countrykey, countryCode];
         [self.button1 setTitle:title forState:UIControlStateNormal];
     }];
     [self.navigationController pushViewController:vc animated:YES];
@@ -91,15 +92,16 @@
 
 - (void)countryCodeSelectWithApp {
     DDYCountryCodeSelectVC *vc = [[DDYCountryCodeSelectVC alloc] init];
-    [vc setCountryBlock:^(NSString *countryCode, NSString *countryKey, NSString *countryName, NSString *countryLatin) {
-        NSString *title = [NSString stringWithFormat:@"选择的国家:%@ 简称:%@ 区号:%@", countryName, countryKey, countryCode];
+    [vc setCountryBlock:^(NSString *countryCode, NSString *countrykey, NSString *countryName, NSString *countryLatin) {
+        NSString *title = [NSString stringWithFormat:@"选择的国家:%@ 简称:%@ 区号:%@", countryName, countrykey, countryCode];
         [self.button2 setTitle:title forState:UIControlStateNormal];
     }];
     [self.navigationController pushViewController:vc animated:YES];
 }
 
 - (void)changeLanguage {
-    [self presentViewController:[[DDYLanguageSelectVC alloc] init] animated:YES completion:^{ }];
+    UINavigationController *navi = [[UINavigationController alloc] initWithRootViewController:[[DDYLanguageSelectVC alloc] init]];
+    [self presentViewController:navi animated:YES completion:^{ }];
 }
 
 @end

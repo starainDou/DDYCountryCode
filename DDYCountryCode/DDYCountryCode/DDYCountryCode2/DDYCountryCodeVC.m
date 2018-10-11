@@ -20,25 +20,41 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
 
 @implementation DDYCountryCodeModel
 
-+ (NSArray<DDYCountryCodeModel *> *)countryModelArray {
-    NSString *plistPath = [[NSBundle mainBundle] pathForResource:@"DDYCountryCode" ofType:@"plist"];
-    NSArray *tempArray = [NSArray arrayWithContentsOfFile:plistPath];
-    NSMutableArray *modelArray = [NSMutableArray array];
-    for (NSDictionary *tempDict in tempArray) {
-        DDYCountryCodeModel *tempMoel = [[DDYCountryCodeModel alloc] init];
-        tempMoel.countryKey = tempDict[@"countryKey"];
-        tempMoel.countryCode = tempDict[@"countryCode"];
-        tempMoel.countryName = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:tempMoel.countryKey];
-        tempMoel.countryLatin = [self latinize:tempMoel.countryName];
-        // 爱国从代码开始
-        if ([tempMoel.countryKey isEqualToString:@"TW"]) {
-            NSString *TaiWanStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"TW"];
-            NSString *ChinaStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"CN"];
-            tempMoel.countryName = [NSString stringWithFormat:@"%@ (%@)", TaiWanStr, ChinaStr];
+// [NSLocale ISOCountryCodes], 如果变动需自行修改
++ (void)prepareData {
+    dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+        NSString *plistPath = [[NSBundle mainBundle] pathForResource:@"DDYCountryCode" ofType:@"plist"];
+        NSArray *countryArray = [NSArray arrayWithContentsOfFile:plistPath];
+        NSMutableArray *tempArray = [NSMutableArray array];
+        for (NSDictionary *tempDict in countryArray) {
+            NSMutableDictionary *countryDict = [NSMutableDictionary dictionary];
+            countryDict[@"countryKey"] = tempDict[@"countryKey"];
+            countryDict[@"countryCode"] = tempDict[@"countryCode"];
+            countryDict[@"countryName"] = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:tempDict[@"countryKey"]];
+            countryDict[@"countryLatin"] = [self latinize:countryDict[@"countryKey"]];
+            // 爱国从代码开始
+            if ([countryDict[@"countryKey"] isEqualToString:@"TW"]) {
+                NSString *TaiWanStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"TW"];
+                NSString *ChinaStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"CN"];
+                countryDict[@"countryName"] = [NSString stringWithFormat:@"%@ (%@)", TaiWanStr, ChinaStr];
+            }
+            [tempArray addObject:countryDict];
         }
+        [[NSUserDefaults standardUserDefaults] setObject:tempArray forKey:@"DDYCountryCode"];
+    });
+}
+
++ (NSArray<DDYCountryCodeModel *> *)countryModelArray {
+    NSArray *countryArray = [[NSUserDefaults standardUserDefaults] objectForKey:@"DDYCountryCode"];
+    NSMutableArray *modelArray = [NSMutableArray array];
+    for (NSDictionary *countryDict in countryArray) {
+        DDYCountryCodeModel *tempMoel = [[DDYCountryCodeModel alloc] init];
+        tempMoel.countryKey = countryDict[@"countryKey"];
+        tempMoel.countryCode = countryDict[@"countryCode"];
+        tempMoel.countryName = countryDict[@"countryName"];
+        tempMoel.countryLatin = countryDict[@"countryLatin"];
         [modelArray addObject:tempMoel];
     }
-    // [NSLocale ISOCountryCodes], 如果变动需自行修改
     return modelArray;
 }
 
@@ -150,6 +166,10 @@ static NSString *cellID = @"DDYCountryCodeVCCellID";
             });
         }];
     });
+}
+
++ (void)prepareData {
+    [DDYCountryCodeModel prepareData];
 }
 
 @end
