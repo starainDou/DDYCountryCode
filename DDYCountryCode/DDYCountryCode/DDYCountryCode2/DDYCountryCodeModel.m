@@ -1,11 +1,3 @@
-//
-//  DDYCountryCodeModel.m
-//  DDYCountryCode
-//
-//  Created by SmartMesh on 2018/10/10.
-//  Copyright © 2018年 com.smartmesh. All rights reserved.
-//
-
 #import "DDYCountryCodeModel.h"
 
 @implementation DDYCountryCodeModel
@@ -24,7 +16,7 @@
         if ([tempMoel.country isEqualToString:@"TW"]) {
             NSString *TaiWanStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"TW"];
             NSString *ChinaStr = [[NSLocale currentLocale] displayNameForKey:NSLocaleCountryCode value:@"CN"];
-            tempMoel.countryName = [NSString stringWithFormat:@"%@(%@)", TaiWanStr, ChinaStr];
+            tempMoel.countryName = [NSString stringWithFormat:@"%@ (%@)", TaiWanStr, ChinaStr];
         }
         [modelArray addObject:tempMoel];
     }
