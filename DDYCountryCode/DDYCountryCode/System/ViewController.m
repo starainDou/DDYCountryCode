@@ -49,7 +49,7 @@
 
 - (UIButton *)button2 {
     if (!_button2) {
-        _button2 = [self btnY:100 tag:101 title:@"国际区号选择(应用内国际化)"];
+        _button2 = [self btnY:200 tag:101 title:@"国际区号选择(应用内国际化)"];
     }
     return _button2;
 }
@@ -57,7 +57,7 @@
 - (UIButton *)button3 {
     if (!_button3) {
         NSString *language = NSLocalizedStringFromTable(@"DDYCurrentLanguage", @"DDYCountry", nil);
-        _button3 = [self btnY:150 tag:102 title:[NSString stringWithFormat:@"应用内语言切换 当前语言:%@", language]];
+        _button3 = [self btnY:250 tag:102 title:[NSString stringWithFormat:@"应用内语言切换 当前语言:%@", language]];
     }
     return _button3;
 }

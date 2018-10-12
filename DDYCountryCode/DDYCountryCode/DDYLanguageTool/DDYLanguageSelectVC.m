@@ -33,7 +33,7 @@
     if (cell == nil) {
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"ddyCellID"];
     }
-    cell.textLabel.text = DDYLocalStr(self.dataArray[indexPath.row][@"title"]);
+    cell.textLabel.text = self.dataArray[indexPath.row][@"title"];
     NSString *tempTag = self.dataArray[indexPath.row][@"tag"];
     cell.accessoryType = [tempTag isEqualToString:[DDYLanguageTool ddy_AppLanguage]] ? UITableViewCellAccessoryCheckmark : UITableViewCellAccessoryNone;
     return cell;
